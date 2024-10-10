@@ -541,7 +541,7 @@
                 {
                     "problem_id": "A",
                     "problem_name": "Blueberry Waffle",
-                    "status": "wronganswer",
+                    "status": "accepted",
                     "submission": 1,
                     "time": 18,
                     "penalty": 18
@@ -549,7 +549,7 @@
                 {
                     "problem_id": "B",
                     "problem_name": "Fading Wind",
-                    "status": "wronganswer",
+                    "status": "accepted",
                     "submission": 1,
                     "time": 24,
                     "penalty": 24
@@ -557,7 +557,7 @@
                 {
                     "problem_id": "C",
                     "problem_name": "Creative Accounting",
-                    "status": "wronganswer",
+                    "status": "accepted",
                     "submission": 1,
                     "time": 162,
                     "penalty": 162
@@ -565,7 +565,7 @@
                 {
                     "problem_id": "D",
                     "problem_name": "Chocolate Chip Fabrication",
-                    "status": "wronganswer",
+                    "status": "accepted",
                     "submission": 2,
                     "time": 93,
                     "penalty": 113
@@ -573,7 +573,7 @@
                 {
                     "problem_id": "E",
                     "problem_name": "Everything Is A Nail",
-                    "status": "wronganswer",
+                    "status": "accepted",
                     "submission": 2,
                     "time": 215,
                     "penalty": 235
@@ -581,7 +581,7 @@
                 {
                     "problem_id": "F",
                     "problem_name": "Family Visits",
-                    "status": "wronganswer",
+                    "status": "accepted",
                     "submission": 1,
                     "time": 177,
                     "penalty": 177
@@ -589,7 +589,7 @@
                 {
                     "problem_id": "G",
                     "problem_name": "Streets Ahead",
-                    "status": "wronganswer",
+                    "status": "accepted",
                     "submission": 1,
                     "time": 6,
                     "penalty": 6
@@ -597,7 +597,7 @@
                 {
                     "problem_id": "H",
                     "problem_name": "Sun and Moon",
-                    "status": "wronganswer",
+                    "status": "accepted",
                     "submission": 2,
                     "time": 35,
                     "penalty": 55
@@ -613,7 +613,7 @@
                 {
                     "problem_id": "J",
                     "problem_name": "Three Dice",
-                    "status": "wronganswer",
+                    "status": "accepted",
                     "submission": 1,
                     "time": 296,
                     "penalty": 296
@@ -629,7 +629,7 @@
                 {
                     "problem_id": "L",
                     "problem_name": "Branch Manager",
-                    "status": "wronganswer",
+                    "status": "accepted",
                     "submission": 2,
                     "time": 290,
                     "penalty": 310
@@ -653,7 +653,7 @@
                 {
                     "problem_id": "A",
                     "problem_name": "Blueberry Waffle",
-                    "status": "wronganswer",
+                    "status": "accepted",
                     "submission": 1,
                     "time": 19,
                     "penalty": 19
@@ -661,7 +661,7 @@
                 {
                     "problem_id": "B",
                     "problem_name": "Fading Wind",
-                    "status": "wronganswer",
+                    "status": "accepted",
                     "submission": 1,
                     "time": 24,
                     "penalty": 24
@@ -669,7 +669,7 @@
                 {
                     "problem_id": "C",
                     "problem_name": "Creative Accounting",
-                    "status": "wronganswer",
+                    "status": "accepted",
                     "submission": 1,
                     "time": 261,
                     "penalty": 261
@@ -677,7 +677,7 @@
                 {
                     "problem_id": "D",
                     "problem_name": "Chocolate Chip Fabrication",
-                    "status": "wronganswer",
+                    "status": "accepted",
                     "submission": 1,
                     "time": 46,
                     "penalty": 46
@@ -685,7 +685,7 @@
                 {
                     "problem_id": "E",
                     "problem_name": "Everything Is A Nail",
-                    "status": "wronganswer",
+                    "status": "accepted",
                     "submission": 1,
                     "time": 105,
                     "penalty": 105
@@ -693,7 +693,7 @@
                 {
                     "problem_id": "F",
                     "problem_name": "Family Visits",
-                    "status": "wronganswer",
+                    "status": "accepted",
                     "submission": 2,
                     "time": 212,
                     "penalty": 232
@@ -701,7 +701,7 @@
                 {
                     "problem_id": "G",
                     "problem_name": "Streets Ahead",
-                    "status": "wronganswer",
+                    "status": "accepted",
                     "submission": 1,
                     "time": 35,
                     "penalty": 35
@@ -709,7 +709,7 @@
                 {
                     "problem_id": "H",
                     "problem_name": "Sun and Moon",
-                    "status": "wronganswer",
+                    "status": "accepted",
                     "submission": 1,
                     "time": 10,
                     "penalty": 10
@@ -765,7 +765,7 @@
                 {
                     "problem_id": "A",
                     "problem_name": "Blueberry Waffle",
-                    "status": "wronganswer",
+                    "status": "accepted",
                     "submission": 1,
                     "time": 10,
                     "penalty": 10
@@ -773,7 +773,7 @@
                 {
                     "problem_id": "B",
                     "problem_name": "Fading Wind",
-                    "status": "wronganswer",
+                    "status": "accepted",
                     "submission": 1,
                     "time": 16,
                     "penalty": 16
@@ -789,7 +789,7 @@
                 {
                     "problem_id": "D",
                     "problem_name": "Chocolate Chip Fabrication",
-                    "status": "wronganswer",
+                    "status": "accepted",
                     "submission": 1,
                     "time": 114,
                     "penalty": 114
@@ -797,7 +797,7 @@
                 {
                     "problem_id": "E",
                     "problem_name": "Everything Is A Nail",
-                    "status": "wronganswer",
+                    "status": "accepted",
                     "submission": 1,
                     "time": 178,
                     "penalty": 178
@@ -813,7 +813,7 @@
                 {
                     "problem_id": "G",
                     "problem_name": "Streets Ahead",
-                    "status": "wronganswer",
+                    "status": "accepted",
                     "submission": 1,
                     "time": 32,
                     "penalty": 32
@@ -821,7 +821,7 @@
                 {
                     "problem_id": "H",
                     "problem_name": "Sun and Moon",
-                    "status": "wronganswer",
+                    "status": "accepted",
                     "submission": 1,
                     "time": 36,
                     "penalty": 36
@@ -845,7 +845,7 @@
                 {
                     "problem_id": "K",
                     "problem_name": "Food Processor",
-                    "status": "wronganswer",
+                    "status": "accepted",
                     "submission": 7,
                     "time": 289,
                     "penalty": 409
@@ -877,7 +877,7 @@
                 {
                     "problem_id": "A",
                     "problem_name": "Blueberry Waffle",
-                    "status": "wronganswer",
+                    "status": "accepted",
                     "submission": 1,
                     "time": 9,
                     "penalty": 9
@@ -885,7 +885,7 @@
                 {
                     "problem_id": "B",
                     "problem_name": "Fading Wind",
-                    "status": "wronganswer",
+                    "status": "accepted",
                     "submission": 1,
                     "time": 31,
                     "penalty": 31
@@ -901,7 +901,7 @@
                 {
                     "problem_id": "D",
                     "problem_name": "Chocolate Chip Fabrication",
-                    "status": "wronganswer",
+                    "status": "accepted",
                     "submission": 4,
                     "time": 261,
                     "penalty": 321
@@ -909,7 +909,7 @@
                 {
                     "problem_id": "E",
                     "problem_name": "Everything Is A Nail",
-                    "status": "wronganswer",
+                    "status": "accepted",
                     "submission": 2,
                     "time": 63,
                     "penalty": 83
@@ -925,7 +925,7 @@
                 {
                     "problem_id": "G",
                     "problem_name": "Streets Ahead",
-                    "status": "wronganswer",
+                    "status": "accepted",
                     "submission": 1,
                     "time": 25,
                     "penalty": 25
@@ -933,7 +933,7 @@
                 {
                     "problem_id": "H",
                     "problem_name": "Sun and Moon",
-                    "status": "wronganswer",
+                    "status": "accepted",
                     "submission": 1,
                     "time": 28,
                     "penalty": 28
@@ -957,7 +957,7 @@
                 {
                     "problem_id": "K",
                     "problem_name": "Food Processor",
-                    "status": "wronganswer",
+                    "status": "accepted",
                     "submission": 3,
                     "time": 274,
                     "penalty": 314
@@ -989,7 +989,7 @@
                 {
                     "problem_id": "A",
                     "problem_name": "Blueberry Waffle",
-                    "status": "wronganswer",
+                    "status": "accepted",
                     "submission": 1,
                     "time": 22,
                     "penalty": 22
@@ -997,7 +997,7 @@
                 {
                     "problem_id": "B",
                     "problem_name": "Fading Wind",
-                    "status": "wronganswer",
+                    "status": "accepted",
                     "submission": 2,
                     "time": 71,
                     "penalty": 91
@@ -1013,7 +1013,7 @@
                 {
                     "problem_id": "D",
                     "problem_name": "Chocolate Chip Fabrication",
-                    "status": "wronganswer",
+                    "status": "accepted",
                     "submission": 1,
                     "time": 125,
                     "penalty": 125
@@ -1021,7 +1021,7 @@
                 {
                     "problem_id": "E",
                     "problem_name": "Everything Is A Nail",
-                    "status": "wronganswer",
+                    "status": "accepted",
                     "submission": 1,
                     "time": 258,
                     "penalty": 258
@@ -1037,7 +1037,7 @@
                 {
                     "problem_id": "G",
                     "problem_name": "Streets Ahead",
-                    "status": "wronganswer",
+                    "status": "accepted",
                     "submission": 1,
                     "time": 50,
                     "penalty": 50
@@ -1045,7 +1045,7 @@
                 {
                     "problem_id": "H",
                     "problem_name": "Sun and Moon",
-                    "status": "wronganswer",
+                    "status": "accepted",
                     "submission": 1,
                     "time": 8,
                     "penalty": 8
@@ -1101,7 +1101,7 @@
                 {
                     "problem_id": "A",
                     "problem_name": "Blueberry Waffle",
-                    "status": "wronganswer",
+                    "status": "accepted",
                     "submission": 2,
                     "time": 8,
                     "penalty": 28
@@ -1109,7 +1109,7 @@
                 {
                     "problem_id": "B",
                     "problem_name": "Fading Wind",
-                    "status": "wronganswer",
+                    "status": "accepted",
                     "submission": 1,
                     "time": 14,
                     "penalty": 14
@@ -1125,7 +1125,7 @@
                 {
                     "problem_id": "D",
                     "problem_name": "Chocolate Chip Fabrication",
-                    "status": "wronganswer",
+                    "status": "accepted",
                     "submission": 6,
                     "time": 276,
                     "penalty": 376
@@ -1149,7 +1149,7 @@
                 {
                     "problem_id": "G",
                     "problem_name": "Streets Ahead",
-                    "status": "wronganswer",
+                    "status": "accepted",
                     "submission": 1,
                     "time": 50,
                     "penalty": 50
@@ -1157,7 +1157,7 @@
                 {
                     "problem_id": "H",
                     "problem_name": "Sun and Moon",
-                    "status": "wronganswer",
+                    "status": "accepted",
                     "submission": 1,
                     "time": 200,
                     "penalty": 200
@@ -1181,7 +1181,7 @@
                 {
                     "problem_id": "K",
                     "problem_name": "Food Processor",
-                    "status": "wronganswer",
+                    "status": "accepted",
                     "submission": 2,
                     "time": 246,
                     "penalty": 266
@@ -1213,7 +1213,7 @@
                 {
                     "problem_id": "A",
                     "problem_name": "Blueberry Waffle",
-                    "status": "wronganswer",
+                    "status": "accepted",
                     "submission": 1,
                     "time": 35,
                     "penalty": 35
@@ -1221,7 +1221,7 @@
                 {
                     "problem_id": "B",
                     "problem_name": "Fading Wind",
-                    "status": "wronganswer",
+                    "status": "accepted",
                     "submission": 1,
                     "time": 42,
                     "penalty": 42
@@ -1237,7 +1237,7 @@
                 {
                     "problem_id": "D",
                     "problem_name": "Chocolate Chip Fabrication",
-                    "status": "wronganswer",
+                    "status": "accepted",
                     "submission": 2,
                     "time": 113,
                     "penalty": 133
@@ -1261,7 +1261,7 @@
                 {
                     "problem_id": "G",
                     "problem_name": "Streets Ahead",
-                    "status": "wronganswer",
+                    "status": "accepted",
                     "submission": 1,
                     "time": 47,
                     "penalty": 47
@@ -1269,7 +1269,7 @@
                 {
                     "problem_id": "H",
                     "problem_name": "Sun and Moon",
-                    "status": "wronganswer",
+                    "status": "accepted",
                     "submission": 2,
                     "time": 18,
                     "penalty": 38
@@ -1325,7 +1325,7 @@
                 {
                     "problem_id": "A",
                     "problem_name": "Blueberry Waffle",
-                    "status": "wronganswer",
+                    "status": "accepted",
                     "submission": 1,
                     "time": 22,
                     "penalty": 22
@@ -1333,7 +1333,7 @@
                 {
                     "problem_id": "B",
                     "problem_name": "Fading Wind",
-                    "status": "wronganswer",
+                    "status": "accepted",
                     "submission": 1,
                     "time": 31,
                     "penalty": 31
@@ -1357,7 +1357,7 @@
                 {
                     "problem_id": "E",
                     "problem_name": "Everything Is A Nail",
-                    "status": "wronganswer",
+                    "status": "accepted",
                     "submission": 2,
                     "time": 165,
                     "penalty": 185
@@ -1373,7 +1373,7 @@
                 {
                     "problem_id": "G",
                     "problem_name": "Streets Ahead",
-                    "status": "wronganswer",
+                    "status": "accepted",
                     "submission": 1,
                     "time": 17,
                     "penalty": 17
@@ -1381,7 +1381,7 @@
                 {
                     "problem_id": "H",
                     "problem_name": "Sun and Moon",
-                    "status": "wronganswer",
+                    "status": "accepted",
                     "submission": 1,
                     "time": 44,
                     "penalty": 44
@@ -1437,7 +1437,7 @@
                 {
                     "problem_id": "A",
                     "problem_name": "Blueberry Waffle",
-                    "status": "wronganswer",
+                    "status": "accepted",
                     "submission": 1,
                     "time": 30,
                     "penalty": 30
@@ -1445,7 +1445,7 @@
                 {
                     "problem_id": "B",
                     "problem_name": "Fading Wind",
-                    "status": "wronganswer",
+                    "status": "accepted",
                     "submission": 1,
                     "time": 21,
                     "penalty": 21
@@ -1469,7 +1469,7 @@
                 {
                     "problem_id": "E",
                     "problem_name": "Everything Is A Nail",
-                    "status": "wronganswer",
+                    "status": "accepted",
                     "submission": 1,
                     "time": 200,
                     "penalty": 200
@@ -1485,7 +1485,7 @@
                 {
                     "problem_id": "G",
                     "problem_name": "Streets Ahead",
-                    "status": "wronganswer",
+                    "status": "accepted",
                     "submission": 1,
                     "time": 35,
                     "penalty": 35
@@ -1493,7 +1493,7 @@
                 {
                     "problem_id": "H",
                     "problem_name": "Sun and Moon",
-                    "status": "wronganswer",
+                    "status": "accepted",
                     "submission": 1,
                     "time": 16,
                     "penalty": 16
@@ -1549,7 +1549,7 @@
                 {
                     "problem_id": "A",
                     "problem_name": "Blueberry Waffle",
-                    "status": "wronganswer",
+                    "status": "accepted",
                     "submission": 1,
                     "time": 7,
                     "penalty": 7
@@ -1557,7 +1557,7 @@
                 {
                     "problem_id": "B",
                     "problem_name": "Fading Wind",
-                    "status": "wronganswer",
+                    "status": "accepted",
                     "submission": 1,
                     "time": 30,
                     "penalty": 30
@@ -1589,7 +1589,7 @@
                 {
                     "problem_id": "F",
                     "problem_name": "Family Visits",
-                    "status": "wronganswer",
+                    "status": "accepted",
                     "submission": 1,
                     "time": 257,
                     "penalty": 257
@@ -1597,7 +1597,7 @@
                 {
                     "problem_id": "G",
                     "problem_name": "Streets Ahead",
-                    "status": "wronganswer",
+                    "status": "accepted",
                     "submission": 1,
                     "time": 17,
                     "penalty": 17
@@ -1605,7 +1605,7 @@
                 {
                     "problem_id": "H",
                     "problem_name": "Sun and Moon",
-                    "status": "wronganswer",
+                    "status": "accepted",
                     "submission": 1,
                     "time": 39,
                     "penalty": 39
@@ -1661,7 +1661,7 @@
                 {
                     "problem_id": "A",
                     "problem_name": "Blueberry Waffle",
-                    "status": "wronganswer",
+                    "status": "accepted",
                     "submission": 1,
                     "time": 26,
                     "penalty": 26
@@ -1669,7 +1669,7 @@
                 {
                     "problem_id": "B",
                     "problem_name": "Fading Wind",
-                    "status": "wronganswer",
+                    "status": "accepted",
                     "submission": 1,
                     "time": 20,
                     "penalty": 20
@@ -1709,7 +1709,7 @@
                 {
                     "problem_id": "G",
                     "problem_name": "Streets Ahead",
-                    "status": "wronganswer",
+                    "status": "accepted",
                     "submission": 1,
                     "time": 37,
                     "penalty": 37
@@ -1717,7 +1717,7 @@
                 {
                     "problem_id": "H",
                     "problem_name": "Sun and Moon",
-                    "status": "wronganswer",
+                    "status": "accepted",
                     "submission": 1,
                     "time": 53,
                     "penalty": 53
@@ -1733,7 +1733,7 @@
                 {
                     "problem_id": "J",
                     "problem_name": "Three Dice",
-                    "status": "wronganswer",
+                    "status": "accepted",
                     "submission": 1,
                     "time": 284,
                     "penalty": 284
@@ -1773,7 +1773,7 @@
                 {
                     "problem_id": "A",
                     "problem_name": "Blueberry Waffle",
-                    "status": "wronganswer",
+                    "status": "accepted",
                     "submission": 2,
                     "time": 9,
                     "penalty": 29
@@ -1781,7 +1781,7 @@
                 {
                     "problem_id": "B",
                     "problem_name": "Fading Wind",
-                    "status": "wronganswer",
+                    "status": "accepted",
                     "submission": 1,
                     "time": 20,
                     "penalty": 20
@@ -1805,7 +1805,7 @@
                 {
                     "problem_id": "E",
                     "problem_name": "Everything Is A Nail",
-                    "status": "wronganswer",
+                    "status": "accepted",
                     "submission": 1,
                     "time": 81,
                     "penalty": 81
@@ -1821,7 +1821,7 @@
                 {
                     "problem_id": "G",
                     "problem_name": "Streets Ahead",
-                    "status": "wronganswer",
+                    "status": "accepted",
                     "submission": 6,
                     "time": 138,
                     "penalty": 238
@@ -1829,7 +1829,7 @@
                 {
                     "problem_id": "H",
                     "problem_name": "Sun and Moon",
-                    "status": "wronganswer",
+                    "status": "accepted",
                     "submission": 1,
                     "time": 54,
                     "penalty": 54
@@ -1885,7 +1885,7 @@
                 {
                     "problem_id": "A",
                     "problem_name": "Blueberry Waffle",
-                    "status": "wronganswer",
+                    "status": "accepted",
                     "submission": 1,
                     "time": 13,
                     "penalty": 13
@@ -1893,7 +1893,7 @@
                 {
                     "problem_id": "B",
                     "problem_name": "Fading Wind",
-                    "status": "wronganswer",
+                    "status": "accepted",
                     "submission": 1,
                     "time": 21,
                     "penalty": 21
@@ -1917,7 +1917,7 @@
                 {
                     "problem_id": "E",
                     "problem_name": "Everything Is A Nail",
-                    "status": "wronganswer",
+                    "status": "accepted",
                     "submission": 4,
                     "time": 270,
                     "penalty": 330
@@ -1933,7 +1933,7 @@
                 {
                     "problem_id": "G",
                     "problem_name": "Streets Ahead",
-                    "status": "wronganswer",
+                    "status": "accepted",
                     "submission": 1,
                     "time": 30,
                     "penalty": 30
@@ -1941,7 +1941,7 @@
                 {
                     "problem_id": "H",
                     "problem_name": "Sun and Moon",
-                    "status": "wronganswer",
+                    "status": "accepted",
                     "submission": 2,
                     "time": 60,
                     "penalty": 80
@@ -1997,7 +1997,7 @@
                 {
                     "problem_id": "A",
                     "problem_name": "Blueberry Waffle",
-                    "status": "wronganswer",
+                    "status": "accepted",
                     "submission": 2,
                     "time": 68,
                     "penalty": 88
@@ -2005,7 +2005,7 @@
                 {
                     "problem_id": "B",
                     "problem_name": "Fading Wind",
-                    "status": "wronganswer",
+                    "status": "accepted",
                     "submission": 1,
                     "time": 28,
                     "penalty": 28
@@ -2013,7 +2013,7 @@
                 {
                     "problem_id": "C",
                     "problem_name": "Creative Accounting",
-                    "status": "wronganswer",
+                    "status": "accepted",
                     "submission": 4,
                     "time": 266,
                     "penalty": 326
@@ -2045,7 +2045,7 @@
                 {
                     "problem_id": "G",
                     "problem_name": "Streets Ahead",
-                    "status": "wronganswer",
+                    "status": "accepted",
                     "submission": 1,
                     "time": 43,
                     "penalty": 43
@@ -2053,7 +2053,7 @@
                 {
                     "problem_id": "H",
                     "problem_name": "Sun and Moon",
-                    "status": "wronganswer",
+                    "status": "accepted",
                     "submission": 1,
                     "time": 55,
                     "penalty": 55
@@ -2109,7 +2109,7 @@
                 {
                     "problem_id": "A",
                     "problem_name": "Blueberry Waffle",
-                    "status": "wronganswer",
+                    "status": "accepted",
                     "submission": 1,
                     "time": 26,
                     "penalty": 26
@@ -2117,7 +2117,7 @@
                 {
                     "problem_id": "B",
                     "problem_name": "Fading Wind",
-                    "status": "wronganswer",
+                    "status": "accepted",
                     "submission": 1,
                     "time": 47,
                     "penalty": 47
@@ -2157,7 +2157,7 @@
                 {
                     "problem_id": "G",
                     "problem_name": "Streets Ahead",
-                    "status": "wronganswer",
+                    "status": "accepted",
                     "submission": 2,
                     "time": 60,
                     "penalty": 80
@@ -2165,7 +2165,7 @@
                 {
                     "problem_id": "H",
                     "problem_name": "Sun and Moon",
-                    "status": "wronganswer",
+                    "status": "accepted",
                     "submission": 1,
                     "time": 92,
                     "penalty": 92
@@ -2189,7 +2189,7 @@
                 {
                     "problem_id": "K",
                     "problem_name": "Food Processor",
-                    "status": "wronganswer",
+                    "status": "accepted",
                     "submission": 4,
                     "time": 252,
                     "penalty": 312
@@ -2221,7 +2221,7 @@
                 {
                     "problem_id": "A",
                     "problem_name": "Blueberry Waffle",
-                    "status": "wronganswer",
+                    "status": "accepted",
                     "submission": 3,
                     "time": 80,
                     "penalty": 120
@@ -2229,7 +2229,7 @@
                 {
                     "problem_id": "B",
                     "problem_name": "Fading Wind",
-                    "status": "wronganswer",
+                    "status": "accepted",
                     "submission": 1,
                     "time": 24,
                     "penalty": 24
@@ -2245,7 +2245,7 @@
                 {
                     "problem_id": "D",
                     "problem_name": "Chocolate Chip Fabrication",
-                    "status": "wronganswer",
+                    "status": "accepted",
                     "submission": 2,
                     "time": 248,
                     "penalty": 268
@@ -2269,7 +2269,7 @@
                 {
                     "problem_id": "G",
                     "problem_name": "Streets Ahead",
-                    "status": "wronganswer",
+                    "status": "accepted",
                     "submission": 2,
                     "time": 68,
                     "penalty": 88
@@ -2277,7 +2277,7 @@
                 {
                     "problem_id": "H",
                     "problem_name": "Sun and Moon",
-                    "status": "wronganswer",
+                    "status": "accepted",
                     "submission": 3,
                     "time": 54,
                     "penalty": 94
@@ -2333,7 +2333,7 @@
                 {
                     "problem_id": "A",
                     "problem_name": "Blueberry Waffle",
-                    "status": "wronganswer",
+                    "status": "accepted",
                     "submission": 1,
                     "time": 9,
                     "penalty": 9
@@ -2341,7 +2341,7 @@
                 {
                     "problem_id": "B",
                     "problem_name": "Fading Wind",
-                    "status": "wronganswer",
+                    "status": "accepted",
                     "submission": 1,
                     "time": 17,
                     "penalty": 17
@@ -2357,7 +2357,7 @@
                 {
                     "problem_id": "D",
                     "problem_name": "Chocolate Chip Fabrication",
-                    "status": "wronganswer",
+                    "status": "accepted",
                     "submission": 3,
                     "time": 286,
                     "penalty": 326
@@ -2381,7 +2381,7 @@
                 {
                     "problem_id": "G",
                     "problem_name": "Streets Ahead",
-                    "status": "wronganswer",
+                    "status": "accepted",
                     "submission": 1,
                     "time": 210,
                     "penalty": 210
@@ -2389,7 +2389,7 @@
                 {
                     "problem_id": "H",
                     "problem_name": "Sun and Moon",
-                    "status": "wronganswer",
+                    "status": "accepted",
                     "submission": 1,
                     "time": 37,
                     "penalty": 37
@@ -2445,7 +2445,7 @@
                 {
                     "problem_id": "A",
                     "problem_name": "Blueberry Waffle",
-                    "status": "wronganswer",
+                    "status": "accepted",
                     "submission": 1,
                     "time": 10,
                     "penalty": 10
@@ -2453,7 +2453,7 @@
                 {
                     "problem_id": "B",
                     "problem_name": "Fading Wind",
-                    "status": "wronganswer",
+                    "status": "accepted",
                     "submission": 1,
                     "time": 24,
                     "penalty": 24
@@ -2493,7 +2493,7 @@
                 {
                     "problem_id": "G",
                     "problem_name": "Streets Ahead",
-                    "status": "wronganswer",
+                    "status": "accepted",
                     "submission": 1,
                     "time": 17,
                     "penalty": 17
@@ -2501,7 +2501,7 @@
                 {
                     "problem_id": "H",
                     "problem_name": "Sun and Moon",
-                    "status": "wronganswer",
+                    "status": "accepted",
                     "submission": 6,
                     "time": 136,
                     "penalty": 236
@@ -2525,7 +2525,7 @@
                 {
                     "problem_id": "K",
                     "problem_name": "Food Processor",
-                    "status": "wronganswer",
+                    "status": "accepted",
                     "submission": 4,
                     "time": 254,
                     "penalty": 314
@@ -2557,7 +2557,7 @@
                 {
                     "problem_id": "A",
                     "problem_name": "Blueberry Waffle",
-                    "status": "wronganswer",
+                    "status": "accepted",
                     "submission": 1,
                     "time": 36,
                     "penalty": 36
@@ -2565,7 +2565,7 @@
                 {
                     "problem_id": "B",
                     "problem_name": "Fading Wind",
-                    "status": "wronganswer",
+                    "status": "accepted",
                     "submission": 1,
                     "time": 110,
                     "penalty": 110
@@ -2573,7 +2573,7 @@
                 {
                     "problem_id": "C",
                     "problem_name": "Creative Accounting",
-                    "status": "wronganswer",
+                    "status": "accepted",
                     "submission": 2,
                     "time": 262,
                     "penalty": 282
@@ -2605,7 +2605,7 @@
                 {
                     "problem_id": "G",
                     "problem_name": "Streets Ahead",
-                    "status": "wronganswer",
+                    "status": "accepted",
                     "submission": 2,
                     "time": 186,
                     "penalty": 206
@@ -2613,7 +2613,7 @@
                 {
                     "problem_id": "H",
                     "problem_name": "Sun and Moon",
-                    "status": "wronganswer",
+                    "status": "accepted",
                     "submission": 1,
                     "time": 69,
                     "penalty": 69
@@ -2669,7 +2669,7 @@
                 {
                     "problem_id": "A",
                     "problem_name": "Blueberry Waffle",
-                    "status": "wronganswer",
+                    "status": "accepted",
                     "submission": 1,
                     "time": 6,
                     "penalty": 6
@@ -2677,7 +2677,7 @@
                 {
                     "problem_id": "B",
                     "problem_name": "Fading Wind",
-                    "status": "wronganswer",
+                    "status": "accepted",
                     "submission": 1,
                     "time": 10,
                     "penalty": 10
@@ -2717,7 +2717,7 @@
                 {
                     "problem_id": "G",
                     "problem_name": "Streets Ahead",
-                    "status": "wronganswer",
+                    "status": "accepted",
                     "submission": 1,
                     "time": 50,
                     "penalty": 50
@@ -2725,7 +2725,7 @@
                 {
                     "problem_id": "H",
                     "problem_name": "Sun and Moon",
-                    "status": "wronganswer",
+                    "status": "accepted",
                     "submission": 1,
                     "time": 21,
                     "penalty": 21
@@ -2781,7 +2781,7 @@
                 {
                     "problem_id": "A",
                     "problem_name": "Blueberry Waffle",
-                    "status": "wronganswer",
+                    "status": "accepted",
                     "submission": 1,
                     "time": 16,
                     "penalty": 16
@@ -2789,7 +2789,7 @@
                 {
                     "problem_id": "B",
                     "problem_name": "Fading Wind",
-                    "status": "wronganswer",
+                    "status": "accepted",
                     "submission": 1,
                     "time": 31,
                     "penalty": 31
@@ -2829,7 +2829,7 @@
                 {
                     "problem_id": "G",
                     "problem_name": "Streets Ahead",
-                    "status": "wronganswer",
+                    "status": "accepted",
                     "submission": 1,
                     "time": 37,
                     "penalty": 37
@@ -2837,7 +2837,7 @@
                 {
                     "problem_id": "H",
                     "problem_name": "Sun and Moon",
-                    "status": "wronganswer",
+                    "status": "accepted",
                     "submission": 1,
                     "time": 24,
                     "penalty": 24
@@ -2893,7 +2893,7 @@
                 {
                     "problem_id": "A",
                     "problem_name": "Blueberry Waffle",
-                    "status": "wronganswer",
+                    "status": "accepted",
                     "submission": 1,
                     "time": 11,
                     "penalty": 11
@@ -2901,7 +2901,7 @@
                 {
                     "problem_id": "B",
                     "problem_name": "Fading Wind",
-                    "status": "wronganswer",
+                    "status": "accepted",
                     "submission": 2,
                     "time": 21,
                     "penalty": 41
@@ -2941,7 +2941,7 @@
                 {
                     "problem_id": "G",
                     "problem_name": "Streets Ahead",
-                    "status": "wronganswer",
+                    "status": "accepted",
                     "submission": 1,
                     "time": 30,
                     "penalty": 30
@@ -2949,7 +2949,7 @@
                 {
                     "problem_id": "H",
                     "problem_name": "Sun and Moon",
-                    "status": "wronganswer",
+                    "status": "accepted",
                     "submission": 1,
                     "time": 43,
                     "penalty": 43
@@ -3005,7 +3005,7 @@
                 {
                     "problem_id": "A",
                     "problem_name": "Blueberry Waffle",
-                    "status": "wronganswer",
+                    "status": "accepted",
                     "submission": 1,
                     "time": 14,
                     "penalty": 14
@@ -3013,7 +3013,7 @@
                 {
                     "problem_id": "B",
                     "problem_name": "Fading Wind",
-                    "status": "wronganswer",
+                    "status": "accepted",
                     "submission": 1,
                     "time": 31,
                     "penalty": 31
@@ -3053,7 +3053,7 @@
                 {
                     "problem_id": "G",
                     "problem_name": "Streets Ahead",
-                    "status": "wronganswer",
+                    "status": "accepted",
                     "submission": 2,
                     "time": 41,
                     "penalty": 61
@@ -3061,7 +3061,7 @@
                 {
                     "problem_id": "H",
                     "problem_name": "Sun and Moon",
-                    "status": "wronganswer",
+                    "status": "accepted",
                     "submission": 1,
                     "time": 23,
                     "penalty": 23
@@ -3117,7 +3117,7 @@
                 {
                     "problem_id": "A",
                     "problem_name": "Blueberry Waffle",
-                    "status": "wronganswer",
+                    "status": "accepted",
                     "submission": 1,
                     "time": 13,
                     "penalty": 13
@@ -3125,7 +3125,7 @@
                 {
                     "problem_id": "B",
                     "problem_name": "Fading Wind",
-                    "status": "wronganswer",
+                    "status": "accepted",
                     "submission": 1,
                     "time": 26,
                     "penalty": 26
@@ -3165,7 +3165,7 @@
                 {
                     "problem_id": "G",
                     "problem_name": "Streets Ahead",
-                    "status": "wronganswer",
+                    "status": "accepted",
                     "submission": 1,
                     "time": 59,
                     "penalty": 59
@@ -3173,7 +3173,7 @@
                 {
                     "problem_id": "H",
                     "problem_name": "Sun and Moon",
-                    "status": "wronganswer",
+                    "status": "accepted",
                     "submission": 1,
                     "time": 35,
                     "penalty": 35
@@ -3229,7 +3229,7 @@
                 {
                     "problem_id": "A",
                     "problem_name": "Blueberry Waffle",
-                    "status": "wronganswer",
+                    "status": "accepted",
                     "submission": 1,
                     "time": 32,
                     "penalty": 32
@@ -3237,7 +3237,7 @@
                 {
                     "problem_id": "B",
                     "problem_name": "Fading Wind",
-                    "status": "wronganswer",
+                    "status": "accepted",
                     "submission": 1,
                     "time": 24,
                     "penalty": 24
@@ -3277,7 +3277,7 @@
                 {
                     "problem_id": "G",
                     "problem_name": "Streets Ahead",
-                    "status": "wronganswer",
+                    "status": "accepted",
                     "submission": 1,
                     "time": 40,
                     "penalty": 40
@@ -3285,7 +3285,7 @@
                 {
                     "problem_id": "H",
                     "problem_name": "Sun and Moon",
-                    "status": "wronganswer",
+                    "status": "accepted",
                     "submission": 1,
                     "time": 61,
                     "penalty": 61
@@ -3341,7 +3341,7 @@
                 {
                     "problem_id": "A",
                     "problem_name": "Blueberry Waffle",
-                    "status": "wronganswer",
+                    "status": "accepted",
                     "submission": 1,
                     "time": 23,
                     "penalty": 23
@@ -3349,7 +3349,7 @@
                 {
                     "problem_id": "B",
                     "problem_name": "Fading Wind",
-                    "status": "wronganswer",
+                    "status": "accepted",
                     "submission": 1,
                     "time": 27,
                     "penalty": 27
@@ -3389,7 +3389,7 @@
                 {
                     "problem_id": "G",
                     "problem_name": "Streets Ahead",
-                    "status": "wronganswer",
+                    "status": "accepted",
                     "submission": 2,
                     "time": 52,
                     "penalty": 72
@@ -3397,7 +3397,7 @@
                 {
                     "problem_id": "H",
                     "problem_name": "Sun and Moon",
-                    "status": "wronganswer",
+                    "status": "accepted",
                     "submission": 1,
                     "time": 54,
                     "penalty": 54
@@ -3453,7 +3453,7 @@
                 {
                     "problem_id": "A",
                     "problem_name": "Blueberry Waffle",
-                    "status": "wronganswer",
+                    "status": "accepted",
                     "submission": 1,
                     "time": 14,
                     "penalty": 14
@@ -3461,7 +3461,7 @@
                 {
                     "problem_id": "B",
                     "problem_name": "Fading Wind",
-                    "status": "wronganswer",
+                    "status": "accepted",
                     "submission": 1,
                     "time": 8,
                     "penalty": 8
@@ -3501,7 +3501,7 @@
                 {
                     "problem_id": "G",
                     "problem_name": "Streets Ahead",
-                    "status": "wronganswer",
+                    "status": "accepted",
                     "submission": 1,
                     "time": 47,
                     "penalty": 47
@@ -3509,7 +3509,7 @@
                 {
                     "problem_id": "H",
                     "problem_name": "Sun and Moon",
-                    "status": "wronganswer",
+                    "status": "accepted",
                     "submission": 2,
                     "time": 87,
                     "penalty": 107
@@ -3565,7 +3565,7 @@
                 {
                     "problem_id": "A",
                     "problem_name": "Blueberry Waffle",
-                    "status": "wronganswer",
+                    "status": "accepted",
                     "submission": 1,
                     "time": 24,
                     "penalty": 24
@@ -3573,7 +3573,7 @@
                 {
                     "problem_id": "B",
                     "problem_name": "Fading Wind",
-                    "status": "wronganswer",
+                    "status": "accepted",
                     "submission": 1,
                     "time": 17,
                     "penalty": 17
@@ -3613,7 +3613,7 @@
                 {
                     "problem_id": "G",
                     "problem_name": "Streets Ahead",
-                    "status": "wronganswer",
+                    "status": "accepted",
                     "submission": 1,
                     "time": 54,
                     "penalty": 54
@@ -3621,7 +3621,7 @@
                 {
                     "problem_id": "H",
                     "problem_name": "Sun and Moon",
-                    "status": "wronganswer",
+                    "status": "accepted",
                     "submission": 2,
                     "time": 68,
                     "penalty": 88
@@ -3677,7 +3677,7 @@
                 {
                     "problem_id": "A",
                     "problem_name": "Blueberry Waffle",
-                    "status": "wronganswer",
+                    "status": "accepted",
                     "submission": 1,
                     "time": 15,
                     "penalty": 15
@@ -3685,7 +3685,7 @@
                 {
                     "problem_id": "B",
                     "problem_name": "Fading Wind",
-                    "status": "wronganswer",
+                    "status": "accepted",
                     "submission": 1,
                     "time": 27,
                     "penalty": 27
@@ -3725,7 +3725,7 @@
                 {
                     "problem_id": "G",
                     "problem_name": "Streets Ahead",
-                    "status": "wronganswer",
+                    "status": "accepted",
                     "submission": 2,
                     "time": 73,
                     "penalty": 93
@@ -3733,7 +3733,7 @@
                 {
                     "problem_id": "H",
                     "problem_name": "Sun and Moon",
-                    "status": "wronganswer",
+                    "status": "accepted",
                     "submission": 1,
                     "time": 32,
                     "penalty": 32
@@ -3789,7 +3789,7 @@
                 {
                     "problem_id": "A",
                     "problem_name": "Blueberry Waffle",
-                    "status": "wronganswer",
+                    "status": "accepted",
                     "submission": 2,
                     "time": 33,
                     "penalty": 53
@@ -3797,7 +3797,7 @@
                 {
                     "problem_id": "B",
                     "problem_name": "Fading Wind",
-                    "status": "wronganswer",
+                    "status": "accepted",
                     "submission": 1,
                     "time": 30,
                     "penalty": 30
@@ -3837,7 +3837,7 @@
                 {
                     "problem_id": "G",
                     "problem_name": "Streets Ahead",
-                    "status": "wronganswer",
+                    "status": "accepted",
                     "submission": 1,
                     "time": 93,
                     "penalty": 93
@@ -3845,7 +3845,7 @@
                 {
                     "problem_id": "H",
                     "problem_name": "Sun and Moon",
-                    "status": "wronganswer",
+                    "status": "accepted",
                     "submission": 1,
                     "time": 11,
                     "penalty": 11
@@ -3901,7 +3901,7 @@
                 {
                     "problem_id": "A",
                     "problem_name": "Blueberry Waffle",
-                    "status": "wronganswer",
+                    "status": "accepted",
                     "submission": 1,
                     "time": 36,
                     "penalty": 36
@@ -3909,7 +3909,7 @@
                 {
                     "problem_id": "B",
                     "problem_name": "Fading Wind",
-                    "status": "wronganswer",
+                    "status": "accepted",
                     "submission": 1,
                     "time": 12,
                     "penalty": 12
@@ -3949,7 +3949,7 @@
                 {
                     "problem_id": "G",
                     "problem_name": "Streets Ahead",
-                    "status": "wronganswer",
+                    "status": "accepted",
                     "submission": 2,
                     "time": 84,
                     "penalty": 104
@@ -3957,7 +3957,7 @@
                 {
                     "problem_id": "H",
                     "problem_name": "Sun and Moon",
-                    "status": "wronganswer",
+                    "status": "accepted",
                     "submission": 1,
                     "time": 60,
                     "penalty": 60
@@ -4013,7 +4013,7 @@
                 {
                     "problem_id": "A",
                     "problem_name": "Blueberry Waffle",
-                    "status": "wronganswer",
+                    "status": "accepted",
                     "submission": 1,
                     "time": 27,
                     "penalty": 27
@@ -4021,7 +4021,7 @@
                 {
                     "problem_id": "B",
                     "problem_name": "Fading Wind",
-                    "status": "wronganswer",
+                    "status": "accepted",
                     "submission": 1,
                     "time": 63,
                     "penalty": 63
@@ -4061,7 +4061,7 @@
                 {
                     "problem_id": "G",
                     "problem_name": "Streets Ahead",
-                    "status": "wronganswer",
+                    "status": "accepted",
                     "submission": 1,
                     "time": 70,
                     "penalty": 70
@@ -4069,7 +4069,7 @@
                 {
                     "problem_id": "H",
                     "problem_name": "Sun and Moon",
-                    "status": "wronganswer",
+                    "status": "accepted",
                     "submission": 1,
                     "time": 57,
                     "penalty": 57
@@ -4125,7 +4125,7 @@
                 {
                     "problem_id": "A",
                     "problem_name": "Blueberry Waffle",
-                    "status": "wronganswer",
+                    "status": "accepted",
                     "submission": 1,
                     "time": 22,
                     "penalty": 22
@@ -4133,7 +4133,7 @@
                 {
                     "problem_id": "B",
                     "problem_name": "Fading Wind",
-                    "status": "wronganswer",
+                    "status": "accepted",
                     "submission": 1,
                     "time": 31,
                     "penalty": 31
@@ -4173,7 +4173,7 @@
                 {
                     "problem_id": "G",
                     "problem_name": "Streets Ahead",
-                    "status": "wronganswer",
+                    "status": "accepted",
                     "submission": 1,
                     "time": 82,
                     "penalty": 82
@@ -4181,7 +4181,7 @@
                 {
                     "problem_id": "H",
                     "problem_name": "Sun and Moon",
-                    "status": "wronganswer",
+                    "status": "accepted",
                     "submission": 1,
                     "time": 97,
                     "penalty": 97
@@ -4237,7 +4237,7 @@
                 {
                     "problem_id": "A",
                     "problem_name": "Blueberry Waffle",
-                    "status": "wronganswer",
+                    "status": "accepted",
                     "submission": 1,
                     "time": 13,
                     "penalty": 13
@@ -4245,7 +4245,7 @@
                 {
                     "problem_id": "B",
                     "problem_name": "Fading Wind",
-                    "status": "wronganswer",
+                    "status": "accepted",
                     "submission": 1,
                     "time": 103,
                     "penalty": 103
@@ -4285,7 +4285,7 @@
                 {
                     "problem_id": "G",
                     "problem_name": "Streets Ahead",
-                    "status": "wronganswer",
+                    "status": "accepted",
                     "submission": 1,
                     "time": 80,
                     "penalty": 80
@@ -4293,7 +4293,7 @@
                 {
                     "problem_id": "H",
                     "problem_name": "Sun and Moon",
-                    "status": "wronganswer",
+                    "status": "accepted",
                     "submission": 1,
                     "time": 36,
                     "penalty": 36
@@ -4349,7 +4349,7 @@
                 {
                     "problem_id": "A",
                     "problem_name": "Blueberry Waffle",
-                    "status": "wronganswer",
+                    "status": "accepted",
                     "submission": 1,
                     "time": 12,
                     "penalty": 12
@@ -4357,7 +4357,7 @@
                 {
                     "problem_id": "B",
                     "problem_name": "Fading Wind",
-                    "status": "wronganswer",
+                    "status": "accepted",
                     "submission": 2,
                     "time": 19,
                     "penalty": 39
@@ -4397,7 +4397,7 @@
                 {
                     "problem_id": "G",
                     "problem_name": "Streets Ahead",
-                    "status": "wronganswer",
+                    "status": "accepted",
                     "submission": 2,
                     "time": 59,
                     "penalty": 79
@@ -4405,7 +4405,7 @@
                 {
                     "problem_id": "H",
                     "problem_name": "Sun and Moon",
-                    "status": "wronganswer",
+                    "status": "accepted",
                     "submission": 2,
                     "time": 83,
                     "penalty": 103
@@ -4461,7 +4461,7 @@
                 {
                     "problem_id": "A",
                     "problem_name": "Blueberry Waffle",
-                    "status": "wronganswer",
+                    "status": "accepted",
                     "submission": 1,
                     "time": 15,
                     "penalty": 15
@@ -4469,7 +4469,7 @@
                 {
                     "problem_id": "B",
                     "problem_name": "Fading Wind",
-                    "status": "wronganswer",
+                    "status": "accepted",
                     "submission": 1,
                     "time": 70,
                     "penalty": 70
@@ -4509,7 +4509,7 @@
                 {
                     "problem_id": "G",
                     "problem_name": "Streets Ahead",
-                    "status": "wronganswer",
+                    "status": "accepted",
                     "submission": 2,
                     "time": 96,
                     "penalty": 116
@@ -4517,7 +4517,7 @@
                 {
                     "problem_id": "H",
                     "problem_name": "Sun and Moon",
-                    "status": "wronganswer",
+                    "status": "accepted",
                     "submission": 1,
                     "time": 38,
                     "penalty": 38
@@ -4573,7 +4573,7 @@
                 {
                     "problem_id": "A",
                     "problem_name": "Blueberry Waffle",
-                    "status": "wronganswer",
+                    "status": "accepted",
                     "submission": 1,
                     "time": 33,
                     "penalty": 33
@@ -4581,7 +4581,7 @@
                 {
                     "problem_id": "B",
                     "problem_name": "Fading Wind",
-                    "status": "wronganswer",
+                    "status": "accepted",
                     "submission": 1,
                     "time": 17,
                     "penalty": 17
@@ -4621,7 +4621,7 @@
                 {
                     "problem_id": "G",
                     "problem_name": "Streets Ahead",
-                    "status": "wronganswer",
+                    "status": "accepted",
                     "submission": 2,
                     "time": 110,
                     "penalty": 130
@@ -4629,7 +4629,7 @@
                 {
                     "problem_id": "H",
                     "problem_name": "Sun and Moon",
-                    "status": "wronganswer",
+                    "status": "accepted",
                     "submission": 1,
                     "time": 59,
                     "penalty": 59
@@ -4685,7 +4685,7 @@
                 {
                     "problem_id": "A",
                     "problem_name": "Blueberry Waffle",
-                    "status": "wronganswer",
+                    "status": "accepted",
                     "submission": 1,
                     "time": 77,
                     "penalty": 77
@@ -4693,7 +4693,7 @@
                 {
                     "problem_id": "B",
                     "problem_name": "Fading Wind",
-                    "status": "wronganswer",
+                    "status": "accepted",
                     "submission": 1,
                     "time": 79,
                     "penalty": 79
@@ -4733,7 +4733,7 @@
                 {
                     "problem_id": "G",
                     "problem_name": "Streets Ahead",
-                    "status": "wronganswer",
+                    "status": "accepted",
                     "submission": 2,
                     "time": 58,
                     "penalty": 78
@@ -4741,7 +4741,7 @@
                 {
                     "problem_id": "H",
                     "problem_name": "Sun and Moon",
-                    "status": "wronganswer",
+                    "status": "accepted",
                     "submission": 1,
                     "time": 24,
                     "penalty": 24
@@ -4797,7 +4797,7 @@
                 {
                     "problem_id": "A",
                     "problem_name": "Blueberry Waffle",
-                    "status": "wronganswer",
+                    "status": "accepted",
                     "submission": 1,
                     "time": 21,
                     "penalty": 21
@@ -4805,7 +4805,7 @@
                 {
                     "problem_id": "B",
                     "problem_name": "Fading Wind",
-                    "status": "wronganswer",
+                    "status": "accepted",
                     "submission": 2,
                     "time": 35,
                     "penalty": 55
@@ -4845,7 +4845,7 @@
                 {
                     "problem_id": "G",
                     "problem_name": "Streets Ahead",
-                    "status": "wronganswer",
+                    "status": "accepted",
                     "submission": 1,
                     "time": 84,
                     "penalty": 84
@@ -4853,7 +4853,7 @@
                 {
                     "problem_id": "H",
                     "problem_name": "Sun and Moon",
-                    "status": "wronganswer",
+                    "status": "accepted",
                     "submission": 2,
                     "time": 78,
                     "penalty": 98
@@ -4909,7 +4909,7 @@
                 {
                     "problem_id": "A",
                     "problem_name": "Blueberry Waffle",
-                    "status": "wronganswer",
+                    "status": "accepted",
                     "submission": 1,
                     "time": 49,
                     "penalty": 49
@@ -4917,7 +4917,7 @@
                 {
                     "problem_id": "B",
                     "problem_name": "Fading Wind",
-                    "status": "wronganswer",
+                    "status": "accepted",
                     "submission": 1,
                     "time": 10,
                     "penalty": 10
@@ -4957,7 +4957,7 @@
                 {
                     "problem_id": "G",
                     "problem_name": "Streets Ahead",
-                    "status": "wronganswer",
+                    "status": "accepted",
                     "submission": 3,
                     "time": 83,
                     "penalty": 123
@@ -4965,7 +4965,7 @@
                 {
                     "problem_id": "H",
                     "problem_name": "Sun and Moon",
-                    "status": "wronganswer",
+                    "status": "accepted",
                     "submission": 1,
                     "time": 85,
                     "penalty": 85
@@ -5021,7 +5021,7 @@
                 {
                     "problem_id": "A",
                     "problem_name": "Blueberry Waffle",
-                    "status": "wronganswer",
+                    "status": "accepted",
                     "submission": 1,
                     "time": 17,
                     "penalty": 17
@@ -5029,7 +5029,7 @@
                 {
                     "problem_id": "B",
                     "problem_name": "Fading Wind",
-                    "status": "wronganswer",
+                    "status": "accepted",
                     "submission": 1,
                     "time": 29,
                     "penalty": 29
@@ -5069,7 +5069,7 @@
                 {
                     "problem_id": "G",
                     "problem_name": "Streets Ahead",
-                    "status": "wronganswer",
+                    "status": "accepted",
                     "submission": 2,
                     "time": 77,
                     "penalty": 97
@@ -5077,7 +5077,7 @@
                 {
                     "problem_id": "H",
                     "problem_name": "Sun and Moon",
-                    "status": "wronganswer",
+                    "status": "accepted",
                     "submission": 1,
                     "time": 130,
                     "penalty": 130
@@ -5133,7 +5133,7 @@
                 {
                     "problem_id": "A",
                     "problem_name": "Blueberry Waffle",
-                    "status": "wronganswer",
+                    "status": "accepted",
                     "submission": 1,
                     "time": 35,
                     "penalty": 35
@@ -5141,7 +5141,7 @@
                 {
                     "problem_id": "B",
                     "problem_name": "Fading Wind",
-                    "status": "wronganswer",
+                    "status": "accepted",
                     "submission": 1,
                     "time": 103,
                     "penalty": 103
@@ -5181,7 +5181,7 @@
                 {
                     "problem_id": "G",
                     "problem_name": "Streets Ahead",
-                    "status": "wronganswer",
+                    "status": "accepted",
                     "submission": 1,
                     "time": 66,
                     "penalty": 66
@@ -5189,7 +5189,7 @@
                 {
                     "problem_id": "H",
                     "problem_name": "Sun and Moon",
-                    "status": "wronganswer",
+                    "status": "accepted",
                     "submission": 1,
                     "time": 78,
                     "penalty": 78
@@ -5245,7 +5245,7 @@
                 {
                     "problem_id": "A",
                     "problem_name": "Blueberry Waffle",
-                    "status": "wronganswer",
+                    "status": "accepted",
                     "submission": 1,
                     "time": 25,
                     "penalty": 25
@@ -5253,7 +5253,7 @@
                 {
                     "problem_id": "B",
                     "problem_name": "Fading Wind",
-                    "status": "wronganswer",
+                    "status": "accepted",
                     "submission": 1,
                     "time": 14,
                     "penalty": 14
@@ -5293,7 +5293,7 @@
                 {
                     "problem_id": "G",
                     "problem_name": "Streets Ahead",
-                    "status": "wronganswer",
+                    "status": "accepted",
                     "submission": 2,
                     "time": 118,
                     "penalty": 138
@@ -5301,7 +5301,7 @@
                 {
                     "problem_id": "H",
                     "problem_name": "Sun and Moon",
-                    "status": "wronganswer",
+                    "status": "accepted",
                     "submission": 2,
                     "time": 85,
                     "penalty": 105
@@ -5357,7 +5357,7 @@
                 {
                     "problem_id": "A",
                     "problem_name": "Blueberry Waffle",
-                    "status": "wronganswer",
+                    "status": "accepted",
                     "submission": 1,
                     "time": 39,
                     "penalty": 39
@@ -5365,7 +5365,7 @@
                 {
                     "problem_id": "B",
                     "problem_name": "Fading Wind",
-                    "status": "wronganswer",
+                    "status": "accepted",
                     "submission": 1,
                     "time": 40,
                     "penalty": 40
@@ -5405,7 +5405,7 @@
                 {
                     "problem_id": "G",
                     "problem_name": "Streets Ahead",
-                    "status": "wronganswer",
+                    "status": "accepted",
                     "submission": 2,
                     "time": 25,
                     "penalty": 45
@@ -5413,7 +5413,7 @@
                 {
                     "problem_id": "H",
                     "problem_name": "Sun and Moon",
-                    "status": "wronganswer",
+                    "status": "accepted",
                     "submission": 5,
                     "time": 80,
                     "penalty": 160
@@ -5469,7 +5469,7 @@
                 {
                     "problem_id": "A",
                     "problem_name": "Blueberry Waffle",
-                    "status": "wronganswer",
+                    "status": "accepted",
                     "submission": 2,
                     "time": 22,
                     "penalty": 42
@@ -5477,7 +5477,7 @@
                 {
                     "problem_id": "B",
                     "problem_name": "Fading Wind",
-                    "status": "wronganswer",
+                    "status": "accepted",
                     "submission": 1,
                     "time": 32,
                     "penalty": 32
@@ -5517,7 +5517,7 @@
                 {
                     "problem_id": "G",
                     "problem_name": "Streets Ahead",
-                    "status": "wronganswer",
+                    "status": "accepted",
                     "submission": 1,
                     "time": 81,
                     "penalty": 81
@@ -5525,7 +5525,7 @@
                 {
                     "problem_id": "H",
                     "problem_name": "Sun and Moon",
-                    "status": "wronganswer",
+                    "status": "accepted",
                     "submission": 2,
                     "time": 113,
                     "penalty": 133
@@ -5581,7 +5581,7 @@
                 {
                     "problem_id": "A",
                     "problem_name": "Blueberry Waffle",
-                    "status": "wronganswer",
+                    "status": "accepted",
                     "submission": 1,
                     "time": 25,
                     "penalty": 25
@@ -5589,7 +5589,7 @@
                 {
                     "problem_id": "B",
                     "problem_name": "Fading Wind",
-                    "status": "wronganswer",
+                    "status": "accepted",
                     "submission": 1,
                     "time": 15,
                     "penalty": 15
@@ -5629,7 +5629,7 @@
                 {
                     "problem_id": "G",
                     "problem_name": "Streets Ahead",
-                    "status": "wronganswer",
+                    "status": "accepted",
                     "submission": 4,
                     "time": 139,
                     "penalty": 199
@@ -5637,7 +5637,7 @@
                 {
                     "problem_id": "H",
                     "problem_name": "Sun and Moon",
-                    "status": "wronganswer",
+                    "status": "accepted",
                     "submission": 1,
                     "time": 49,
                     "penalty": 49
@@ -5693,7 +5693,7 @@
                 {
                     "problem_id": "A",
                     "problem_name": "Blueberry Waffle",
-                    "status": "wronganswer",
+                    "status": "accepted",
                     "submission": 1,
                     "time": 5,
                     "penalty": 5
@@ -5701,7 +5701,7 @@
                 {
                     "problem_id": "B",
                     "problem_name": "Fading Wind",
-                    "status": "wronganswer",
+                    "status": "accepted",
                     "submission": 1,
                     "time": 11,
                     "penalty": 11
@@ -5741,7 +5741,7 @@
                 {
                     "problem_id": "G",
                     "problem_name": "Streets Ahead",
-                    "status": "wronganswer",
+                    "status": "accepted",
                     "submission": 1,
                     "time": 138,
                     "penalty": 138
@@ -5749,7 +5749,7 @@
                 {
                     "problem_id": "H",
                     "problem_name": "Sun and Moon",
-                    "status": "wronganswer",
+                    "status": "accepted",
                     "submission": 1,
                     "time": 147,
                     "penalty": 147
@@ -5805,7 +5805,7 @@
                 {
                     "problem_id": "A",
                     "problem_name": "Blueberry Waffle",
-                    "status": "wronganswer",
+                    "status": "accepted",
                     "submission": 1,
                     "time": 38,
                     "penalty": 38
@@ -5813,7 +5813,7 @@
                 {
                     "problem_id": "B",
                     "problem_name": "Fading Wind",
-                    "status": "wronganswer",
+                    "status": "accepted",
                     "submission": 1,
                     "time": 71,
                     "penalty": 71
@@ -5853,7 +5853,7 @@
                 {
                     "problem_id": "G",
                     "problem_name": "Streets Ahead",
-                    "status": "wronganswer",
+                    "status": "accepted",
                     "submission": 1,
                     "time": 131,
                     "penalty": 131
@@ -5861,7 +5861,7 @@
                 {
                     "problem_id": "H",
                     "problem_name": "Sun and Moon",
-                    "status": "wronganswer",
+                    "status": "accepted",
                     "submission": 1,
                     "time": 62,
                     "penalty": 62
@@ -5917,7 +5917,7 @@
                 {
                     "problem_id": "A",
                     "problem_name": "Blueberry Waffle",
-                    "status": "wronganswer",
+                    "status": "accepted",
                     "submission": 3,
                     "time": 55,
                     "penalty": 95
@@ -5925,7 +5925,7 @@
                 {
                     "problem_id": "B",
                     "problem_name": "Fading Wind",
-                    "status": "wronganswer",
+                    "status": "accepted",
                     "submission": 3,
                     "time": 30,
                     "penalty": 70
@@ -5965,7 +5965,7 @@
                 {
                     "problem_id": "G",
                     "problem_name": "Streets Ahead",
-                    "status": "wronganswer",
+                    "status": "accepted",
                     "submission": 1,
                     "time": 111,
                     "penalty": 111
@@ -5973,7 +5973,7 @@
                 {
                     "problem_id": "H",
                     "problem_name": "Sun and Moon",
-                    "status": "wronganswer",
+                    "status": "accepted",
                     "submission": 1,
                     "time": 54,
                     "penalty": 54
@@ -6029,7 +6029,7 @@
                 {
                     "problem_id": "A",
                     "problem_name": "Blueberry Waffle",
-                    "status": "wronganswer",
+                    "status": "accepted",
                     "submission": 1,
                     "time": 29,
                     "penalty": 29
@@ -6037,7 +6037,7 @@
                 {
                     "problem_id": "B",
                     "problem_name": "Fading Wind",
-                    "status": "wronganswer",
+                    "status": "accepted",
                     "submission": 2,
                     "time": 23,
                     "penalty": 43
@@ -6077,7 +6077,7 @@
                 {
                     "problem_id": "G",
                     "problem_name": "Streets Ahead",
-                    "status": "wronganswer",
+                    "status": "accepted",
                     "submission": 1,
                     "time": 71,
                     "penalty": 71
@@ -6085,7 +6085,7 @@
                 {
                     "problem_id": "H",
                     "problem_name": "Sun and Moon",
-                    "status": "wronganswer",
+                    "status": "accepted",
                     "submission": 4,
                     "time": 131,
                     "penalty": 191
@@ -6141,7 +6141,7 @@
                 {
                     "problem_id": "A",
                     "problem_name": "Blueberry Waffle",
-                    "status": "wronganswer",
+                    "status": "accepted",
                     "submission": 1,
                     "time": 12,
                     "penalty": 12
@@ -6149,7 +6149,7 @@
                 {
                     "problem_id": "B",
                     "problem_name": "Fading Wind",
-                    "status": "wronganswer",
+                    "status": "accepted",
                     "submission": 1,
                     "time": 176,
                     "penalty": 176
@@ -6189,7 +6189,7 @@
                 {
                     "problem_id": "G",
                     "problem_name": "Streets Ahead",
-                    "status": "wronganswer",
+                    "status": "accepted",
                     "submission": 2,
                     "time": 53,
                     "penalty": 73
@@ -6197,7 +6197,7 @@
                 {
                     "problem_id": "H",
                     "problem_name": "Sun and Moon",
-                    "status": "wronganswer",
+                    "status": "accepted",
                     "submission": 1,
                     "time": 76,
                     "penalty": 76
@@ -6253,7 +6253,7 @@
                 {
                     "problem_id": "A",
                     "problem_name": "Blueberry Waffle",
-                    "status": "wronganswer",
+                    "status": "accepted",
                     "submission": 1,
                     "time": 27,
                     "penalty": 27
@@ -6261,7 +6261,7 @@
                 {
                     "problem_id": "B",
                     "problem_name": "Fading Wind",
-                    "status": "wronganswer",
+                    "status": "accepted",
                     "submission": 1,
                     "time": 124,
                     "penalty": 124
@@ -6301,7 +6301,7 @@
                 {
                     "problem_id": "G",
                     "problem_name": "Streets Ahead",
-                    "status": "wronganswer",
+                    "status": "accepted",
                     "submission": 1,
                     "time": 114,
                     "penalty": 114
@@ -6309,7 +6309,7 @@
                 {
                     "problem_id": "H",
                     "problem_name": "Sun and Moon",
-                    "status": "wronganswer",
+                    "status": "accepted",
                     "submission": 1,
                     "time": 103,
                     "penalty": 103
@@ -6365,7 +6365,7 @@
                 {
                     "problem_id": "A",
                     "problem_name": "Blueberry Waffle",
-                    "status": "wronganswer",
+                    "status": "accepted",
                     "submission": 2,
                     "time": 22,
                     "penalty": 42
@@ -6373,7 +6373,7 @@
                 {
                     "problem_id": "B",
                     "problem_name": "Fading Wind",
-                    "status": "wronganswer",
+                    "status": "accepted",
                     "submission": 1,
                     "time": 54,
                     "penalty": 54
@@ -6413,7 +6413,7 @@
                 {
                     "problem_id": "G",
                     "problem_name": "Streets Ahead",
-                    "status": "wronganswer",
+                    "status": "accepted",
                     "submission": 1,
                     "time": 162,
                     "penalty": 162
@@ -6421,7 +6421,7 @@
                 {
                     "problem_id": "H",
                     "problem_name": "Sun and Moon",
-                    "status": "wronganswer",
+                    "status": "accepted",
                     "submission": 1,
                     "time": 93,
                     "penalty": 93
@@ -6477,7 +6477,7 @@
                 {
                     "problem_id": "A",
                     "problem_name": "Blueberry Waffle",
-                    "status": "wronganswer",
+                    "status": "accepted",
                     "submission": 1,
                     "time": 23,
                     "penalty": 23
@@ -6485,7 +6485,7 @@
                 {
                     "problem_id": "B",
                     "problem_name": "Fading Wind",
-                    "status": "wronganswer",
+                    "status": "accepted",
                     "submission": 1,
                     "time": 6,
                     "penalty": 6
@@ -6525,7 +6525,7 @@
                 {
                     "problem_id": "G",
                     "problem_name": "Streets Ahead",
-                    "status": "wronganswer",
+                    "status": "accepted",
                     "submission": 6,
                     "time": 82,
                     "penalty": 182
@@ -6533,7 +6533,7 @@
                 {
                     "problem_id": "H",
                     "problem_name": "Sun and Moon",
-                    "status": "wronganswer",
+                    "status": "accepted",
                     "submission": 2,
                     "time": 125,
                     "penalty": 145
@@ -6589,7 +6589,7 @@
                 {
                     "problem_id": "A",
                     "problem_name": "Blueberry Waffle",
-                    "status": "wronganswer",
+                    "status": "accepted",
                     "submission": 1,
                     "time": 52,
                     "penalty": 52
@@ -6597,7 +6597,7 @@
                 {
                     "problem_id": "B",
                     "problem_name": "Fading Wind",
-                    "status": "wronganswer",
+                    "status": "accepted",
                     "submission": 2,
                     "time": 30,
                     "penalty": 50
@@ -6637,7 +6637,7 @@
                 {
                     "problem_id": "G",
                     "problem_name": "Streets Ahead",
-                    "status": "wronganswer",
+                    "status": "accepted",
                     "submission": 1,
                     "time": 38,
                     "penalty": 38
@@ -6645,7 +6645,7 @@
                 {
                     "problem_id": "H",
                     "problem_name": "Sun and Moon",
-                    "status": "wronganswer",
+                    "status": "accepted",
                     "submission": 3,
                     "time": 210,
                     "penalty": 250
@@ -6701,7 +6701,7 @@
                 {
                     "problem_id": "A",
                     "problem_name": "Blueberry Waffle",
-                    "status": "wronganswer",
+                    "status": "accepted",
                     "submission": 1,
                     "time": 109,
                     "penalty": 109
@@ -6709,7 +6709,7 @@
                 {
                     "problem_id": "B",
                     "problem_name": "Fading Wind",
-                    "status": "wronganswer",
+                    "status": "accepted",
                     "submission": 3,
                     "time": 79,
                     "penalty": 119
@@ -6749,7 +6749,7 @@
                 {
                     "problem_id": "G",
                     "problem_name": "Streets Ahead",
-                    "status": "wronganswer",
+                    "status": "accepted",
                     "submission": 2,
                     "time": 96,
                     "penalty": 116
@@ -6757,7 +6757,7 @@
                 {
                     "problem_id": "H",
                     "problem_name": "Sun and Moon",
-                    "status": "wronganswer",
+                    "status": "accepted",
                     "submission": 1,
                     "time": 62,
                     "penalty": 62
@@ -6813,7 +6813,7 @@
                 {
                     "problem_id": "A",
                     "problem_name": "Blueberry Waffle",
-                    "status": "wronganswer",
+                    "status": "accepted",
                     "submission": 3,
                     "time": 51,
                     "penalty": 91
@@ -6821,7 +6821,7 @@
                 {
                     "problem_id": "B",
                     "problem_name": "Fading Wind",
-                    "status": "wronganswer",
+                    "status": "accepted",
                     "submission": 1,
                     "time": 55,
                     "penalty": 55
@@ -6861,7 +6861,7 @@
                 {
                     "problem_id": "G",
                     "problem_name": "Streets Ahead",
-                    "status": "wronganswer",
+                    "status": "accepted",
                     "submission": 4,
                     "time": 83,
                     "penalty": 143
@@ -6869,7 +6869,7 @@
                 {
                     "problem_id": "H",
                     "problem_name": "Sun and Moon",
-                    "status": "wronganswer",
+                    "status": "accepted",
                     "submission": 1,
                     "time": 140,
                     "penalty": 140
@@ -6925,7 +6925,7 @@
                 {
                     "problem_id": "A",
                     "problem_name": "Blueberry Waffle",
-                    "status": "wronganswer",
+                    "status": "accepted",
                     "submission": 3,
                     "time": 84,
                     "penalty": 124
@@ -6933,7 +6933,7 @@
                 {
                     "problem_id": "B",
                     "problem_name": "Fading Wind",
-                    "status": "wronganswer",
+                    "status": "accepted",
                     "submission": 1,
                     "time": 74,
                     "penalty": 74
@@ -6973,7 +6973,7 @@
                 {
                     "problem_id": "G",
                     "problem_name": "Streets Ahead",
-                    "status": "wronganswer",
+                    "status": "accepted",
                     "submission": 1,
                     "time": 114,
                     "penalty": 114
@@ -6981,7 +6981,7 @@
                 {
                     "problem_id": "H",
                     "problem_name": "Sun and Moon",
-                    "status": "wronganswer",
+                    "status": "accepted",
                     "submission": 1,
                     "time": 103,
                     "penalty": 103
@@ -7037,7 +7037,7 @@
                 {
                     "problem_id": "A",
                     "problem_name": "Blueberry Waffle",
-                    "status": "wronganswer",
+                    "status": "accepted",
                     "submission": 5,
                     "time": 71,
                     "penalty": 151
@@ -7045,7 +7045,7 @@
                 {
                     "problem_id": "B",
                     "problem_name": "Fading Wind",
-                    "status": "wronganswer",
+                    "status": "accepted",
                     "submission": 1,
                     "time": 24,
                     "penalty": 24
@@ -7085,7 +7085,7 @@
                 {
                     "problem_id": "G",
                     "problem_name": "Streets Ahead",
-                    "status": "wronganswer",
+                    "status": "accepted",
                     "submission": 1,
                     "time": 109,
                     "penalty": 109
@@ -7093,7 +7093,7 @@
                 {
                     "problem_id": "H",
                     "problem_name": "Sun and Moon",
-                    "status": "wronganswer",
+                    "status": "accepted",
                     "submission": 1,
                     "time": 99,
                     "penalty": 99
@@ -7149,7 +7149,7 @@
                 {
                     "problem_id": "A",
                     "problem_name": "Blueberry Waffle",
-                    "status": "wronganswer",
+                    "status": "accepted",
                     "submission": 1,
                     "time": 22,
                     "penalty": 22
@@ -7157,7 +7157,7 @@
                 {
                     "problem_id": "B",
                     "problem_name": "Fading Wind",
-                    "status": "wronganswer",
+                    "status": "accepted",
                     "submission": 3,
                     "time": 105,
                     "penalty": 145
@@ -7197,7 +7197,7 @@
                 {
                     "problem_id": "G",
                     "problem_name": "Streets Ahead",
-                    "status": "wronganswer",
+                    "status": "accepted",
                     "submission": 3,
                     "time": 167,
                     "penalty": 207
@@ -7205,7 +7205,7 @@
                 {
                     "problem_id": "H",
                     "problem_name": "Sun and Moon",
-                    "status": "wronganswer",
+                    "status": "accepted",
                     "submission": 1,
                     "time": 72,
                     "penalty": 72
@@ -7261,7 +7261,7 @@
                 {
                     "problem_id": "A",
                     "problem_name": "Blueberry Waffle",
-                    "status": "wronganswer",
+                    "status": "accepted",
                     "submission": 1,
                     "time": 23,
                     "penalty": 23
@@ -7269,7 +7269,7 @@
                 {
                     "problem_id": "B",
                     "problem_name": "Fading Wind",
-                    "status": "wronganswer",
+                    "status": "accepted",
                     "submission": 2,
                     "time": 162,
                     "penalty": 182
@@ -7309,7 +7309,7 @@
                 {
                     "problem_id": "G",
                     "problem_name": "Streets Ahead",
-                    "status": "wronganswer",
+                    "status": "accepted",
                     "submission": 3,
                     "time": 108,
                     "penalty": 148
@@ -7317,7 +7317,7 @@
                 {
                     "problem_id": "H",
                     "problem_name": "Sun and Moon",
-                    "status": "wronganswer",
+                    "status": "accepted",
                     "submission": 1,
                     "time": 98,
                     "penalty": 98
@@ -7373,7 +7373,7 @@
                 {
                     "problem_id": "A",
                     "problem_name": "Blueberry Waffle",
-                    "status": "wronganswer",
+                    "status": "accepted",
                     "submission": 2,
                     "time": 57,
                     "penalty": 77
@@ -7381,7 +7381,7 @@
                 {
                     "problem_id": "B",
                     "problem_name": "Fading Wind",
-                    "status": "wronganswer",
+                    "status": "accepted",
                     "submission": 1,
                     "time": 194,
                     "penalty": 194
@@ -7421,7 +7421,7 @@
                 {
                     "problem_id": "G",
                     "problem_name": "Streets Ahead",
-                    "status": "wronganswer",
+                    "status": "accepted",
                     "submission": 1,
                     "time": 148,
                     "penalty": 148
@@ -7429,7 +7429,7 @@
                 {
                     "problem_id": "H",
                     "problem_name": "Sun and Moon",
-                    "status": "wronganswer",
+                    "status": "accepted",
                     "submission": 1,
                     "time": 77,
                     "penalty": 77
@@ -7485,7 +7485,7 @@
                 {
                     "problem_id": "A",
                     "problem_name": "Blueberry Waffle",
-                    "status": "wronganswer",
+                    "status": "accepted",
                     "submission": 1,
                     "time": 58,
                     "penalty": 58
@@ -7493,7 +7493,7 @@
                 {
                     "problem_id": "B",
                     "problem_name": "Fading Wind",
-                    "status": "wronganswer",
+                    "status": "accepted",
                     "submission": 1,
                     "time": 67,
                     "penalty": 67
@@ -7533,7 +7533,7 @@
                 {
                     "problem_id": "G",
                     "problem_name": "Streets Ahead",
-                    "status": "wronganswer",
+                    "status": "accepted",
                     "submission": 8,
                     "time": 210,
                     "penalty": 350
@@ -7541,7 +7541,7 @@
                 {
                     "problem_id": "H",
                     "problem_name": "Sun and Moon",
-                    "status": "wronganswer",
+                    "status": "accepted",
                     "submission": 1,
                     "time": 78,
                     "penalty": 78
@@ -7597,7 +7597,7 @@
                 {
                     "problem_id": "A",
                     "problem_name": "Blueberry Waffle",
-                    "status": "wronganswer",
+                    "status": "accepted",
                     "submission": 2,
                     "time": 61,
                     "penalty": 81
@@ -7605,7 +7605,7 @@
                 {
                     "problem_id": "B",
                     "problem_name": "Fading Wind",
-                    "status": "wronganswer",
+                    "status": "accepted",
                     "submission": 1,
                     "time": 165,
                     "penalty": 165
@@ -7645,7 +7645,7 @@
                 {
                     "problem_id": "G",
                     "problem_name": "Streets Ahead",
-                    "status": "wronganswer",
+                    "status": "accepted",
                     "submission": 2,
                     "time": 240,
                     "penalty": 260
@@ -7653,7 +7653,7 @@
                 {
                     "problem_id": "H",
                     "problem_name": "Sun and Moon",
-                    "status": "wronganswer",
+                    "status": "accepted",
                     "submission": 1,
                     "time": 49,
                     "penalty": 49
@@ -7709,7 +7709,7 @@
                 {
                     "problem_id": "A",
                     "problem_name": "Blueberry Waffle",
-                    "status": "wronganswer",
+                    "status": "accepted",
                     "submission": 2,
                     "time": 87,
                     "penalty": 107
@@ -7717,7 +7717,7 @@
                 {
                     "problem_id": "B",
                     "problem_name": "Fading Wind",
-                    "status": "wronganswer",
+                    "status": "accepted",
                     "submission": 1,
                     "time": 14,
                     "penalty": 14
@@ -7757,7 +7757,7 @@
                 {
                     "problem_id": "G",
                     "problem_name": "Streets Ahead",
-                    "status": "wronganswer",
+                    "status": "accepted",
                     "submission": 1,
                     "time": 132,
                     "penalty": 132
@@ -7765,7 +7765,7 @@
                 {
                     "problem_id": "H",
                     "problem_name": "Sun and Moon",
-                    "status": "wronganswer",
+                    "status": "accepted",
                     "submission": 5,
                     "time": 225,
                     "penalty": 305
@@ -7821,7 +7821,7 @@
                 {
                     "problem_id": "A",
                     "problem_name": "Blueberry Waffle",
-                    "status": "wronganswer",
+                    "status": "accepted",
                     "submission": 2,
                     "time": 35,
                     "penalty": 55
@@ -7829,7 +7829,7 @@
                 {
                     "problem_id": "B",
                     "problem_name": "Fading Wind",
-                    "status": "wronganswer",
+                    "status": "accepted",
                     "submission": 1,
                     "time": 98,
                     "penalty": 98
@@ -7869,7 +7869,7 @@
                 {
                     "problem_id": "G",
                     "problem_name": "Streets Ahead",
-                    "status": "wronganswer",
+                    "status": "accepted",
                     "submission": 2,
                     "time": 170,
                     "penalty": 190
@@ -7877,7 +7877,7 @@
                 {
                     "problem_id": "H",
                     "problem_name": "Sun and Moon",
-                    "status": "wronganswer",
+                    "status": "accepted",
                     "submission": 2,
                     "time": 203,
                     "penalty": 223
@@ -7933,7 +7933,7 @@
                 {
                     "problem_id": "A",
                     "problem_name": "Blueberry Waffle",
-                    "status": "wronganswer",
+                    "status": "accepted",
                     "submission": 3,
                     "time": 52,
                     "penalty": 92
@@ -7941,7 +7941,7 @@
                 {
                     "problem_id": "B",
                     "problem_name": "Fading Wind",
-                    "status": "wronganswer",
+                    "status": "accepted",
                     "submission": 1,
                     "time": 65,
                     "penalty": 65
@@ -7981,7 +7981,7 @@
                 {
                     "problem_id": "G",
                     "problem_name": "Streets Ahead",
-                    "status": "wronganswer",
+                    "status": "accepted",
                     "submission": 1,
                     "time": 161,
                     "penalty": 161
@@ -7989,7 +7989,7 @@
                 {
                     "problem_id": "H",
                     "problem_name": "Sun and Moon",
-                    "status": "wronganswer",
+                    "status": "accepted",
                     "submission": 3,
                     "time": 212,
                     "penalty": 252
@@ -8045,7 +8045,7 @@
                 {
                     "problem_id": "A",
                     "problem_name": "Blueberry Waffle",
-                    "status": "wronganswer",
+                    "status": "accepted",
                     "submission": 4,
                     "time": 119,
                     "penalty": 179
@@ -8053,7 +8053,7 @@
                 {
                     "problem_id": "B",
                     "problem_name": "Fading Wind",
-                    "status": "wronganswer",
+                    "status": "accepted",
                     "submission": 1,
                     "time": 56,
                     "penalty": 56
@@ -8093,7 +8093,7 @@
                 {
                     "problem_id": "G",
                     "problem_name": "Streets Ahead",
-                    "status": "wronganswer",
+                    "status": "accepted",
                     "submission": 1,
                     "time": 186,
                     "penalty": 186
@@ -8101,7 +8101,7 @@
                 {
                     "problem_id": "H",
                     "problem_name": "Sun and Moon",
-                    "status": "wronganswer",
+                    "status": "accepted",
                     "submission": 3,
                     "time": 140,
                     "penalty": 180
@@ -8157,7 +8157,7 @@
                 {
                     "problem_id": "A",
                     "problem_name": "Blueberry Waffle",
-                    "status": "wronganswer",
+                    "status": "accepted",
                     "submission": 5,
                     "time": 110,
                     "penalty": 190
@@ -8165,7 +8165,7 @@
                 {
                     "problem_id": "B",
                     "problem_name": "Fading Wind",
-                    "status": "wronganswer",
+                    "status": "accepted",
                     "submission": 1,
                     "time": 160,
                     "penalty": 160
@@ -8205,7 +8205,7 @@
                 {
                     "problem_id": "G",
                     "problem_name": "Streets Ahead",
-                    "status": "wronganswer",
+                    "status": "accepted",
                     "submission": 1,
                     "time": 76,
                     "penalty": 76
@@ -8213,7 +8213,7 @@
                 {
                     "problem_id": "H",
                     "problem_name": "Sun and Moon",
-                    "status": "wronganswer",
+                    "status": "accepted",
                     "submission": 3,
                     "time": 176,
                     "penalty": 216
@@ -8269,7 +8269,7 @@
                 {
                     "problem_id": "A",
                     "problem_name": "Blueberry Waffle",
-                    "status": "wronganswer",
+                    "status": "accepted",
                     "submission": 1,
                     "time": 15,
                     "penalty": 15
@@ -8277,7 +8277,7 @@
                 {
                     "problem_id": "B",
                     "problem_name": "Fading Wind",
-                    "status": "wronganswer",
+                    "status": "accepted",
                     "submission": 1,
                     "time": 47,
                     "penalty": 47
@@ -8317,7 +8317,7 @@
                 {
                     "problem_id": "G",
                     "problem_name": "Streets Ahead",
-                    "status": "wronganswer",
+                    "status": "accepted",
                     "submission": 6,
                     "time": 199,
                     "penalty": 299
@@ -8325,7 +8325,7 @@
                 {
                     "problem_id": "H",
                     "problem_name": "Sun and Moon",
-                    "status": "wronganswer",
+                    "status": "accepted",
                     "submission": 3,
                     "time": 246,
                     "penalty": 286
@@ -8381,7 +8381,7 @@
                 {
                     "problem_id": "A",
                     "problem_name": "Blueberry Waffle",
-                    "status": "wronganswer",
+                    "status": "accepted",
                     "submission": 3,
                     "time": 68,
                     "penalty": 108
@@ -8389,7 +8389,7 @@
                 {
                     "problem_id": "B",
                     "problem_name": "Fading Wind",
-                    "status": "wronganswer",
+                    "status": "accepted",
                     "submission": 1,
                     "time": 91,
                     "penalty": 91
@@ -8429,7 +8429,7 @@
                 {
                     "problem_id": "G",
                     "problem_name": "Streets Ahead",
-                    "status": "wronganswer",
+                    "status": "accepted",
                     "submission": 1,
                     "time": 134,
                     "penalty": 134
@@ -8437,7 +8437,7 @@
                 {
                     "problem_id": "H",
                     "problem_name": "Sun and Moon",
-                    "status": "wronganswer",
+                    "status": "accepted",
                     "submission": 4,
                     "time": 199,
                     "penalty": 259
@@ -8493,7 +8493,7 @@
                 {
                     "problem_id": "A",
                     "problem_name": "Blueberry Waffle",
-                    "status": "wronganswer",
+                    "status": "accepted",
                     "submission": 9,
                     "time": 267,
                     "penalty": 427
@@ -8501,7 +8501,7 @@
                 {
                     "problem_id": "B",
                     "problem_name": "Fading Wind",
-                    "status": "wronganswer",
+                    "status": "accepted",
                     "submission": 1,
                     "time": 33,
                     "penalty": 33
@@ -8541,7 +8541,7 @@
                 {
                     "problem_id": "G",
                     "problem_name": "Streets Ahead",
-                    "status": "wronganswer",
+                    "status": "accepted",
                     "submission": 1,
                     "time": 99,
                     "penalty": 99
@@ -8549,7 +8549,7 @@
                 {
                     "problem_id": "H",
                     "problem_name": "Sun and Moon",
-                    "status": "wronganswer",
+                    "status": "accepted",
                     "submission": 3,
                     "time": 68,
                     "penalty": 108
@@ -8605,7 +8605,7 @@
                 {
                     "problem_id": "A",
                     "problem_name": "Blueberry Waffle",
-                    "status": "wronganswer",
+                    "status": "accepted",
                     "submission": 1,
                     "time": 48,
                     "penalty": 48
@@ -8613,7 +8613,7 @@
                 {
                     "problem_id": "B",
                     "problem_name": "Fading Wind",
-                    "status": "wronganswer",
+                    "status": "accepted",
                     "submission": 1,
                     "time": 64,
                     "penalty": 64
@@ -8653,7 +8653,7 @@
                 {
                     "problem_id": "G",
                     "problem_name": "Streets Ahead",
-                    "status": "wronganswer",
+                    "status": "accepted",
                     "submission": 1,
                     "time": 296,
                     "penalty": 296
@@ -8661,7 +8661,7 @@
                 {
                     "problem_id": "H",
                     "problem_name": "Sun and Moon",
-                    "status": "wronganswer",
+                    "status": "accepted",
                     "submission": 1,
                     "time": 272,
                     "penalty": 272
@@ -8717,7 +8717,7 @@
                 {
                     "problem_id": "A",
                     "problem_name": "Blueberry Waffle",
-                    "status": "wronganswer",
+                    "status": "accepted",
                     "submission": 4,
                     "time": 180,
                     "penalty": 240
@@ -8725,7 +8725,7 @@
                 {
                     "problem_id": "B",
                     "problem_name": "Fading Wind",
-                    "status": "wronganswer",
+                    "status": "accepted",
                     "submission": 1,
                     "time": 64,
                     "penalty": 64
@@ -8765,7 +8765,7 @@
                 {
                     "problem_id": "G",
                     "problem_name": "Streets Ahead",
-                    "status": "wronganswer",
+                    "status": "accepted",
                     "submission": 1,
                     "time": 106,
                     "penalty": 106
@@ -8773,7 +8773,7 @@
                 {
                     "problem_id": "H",
                     "problem_name": "Sun and Moon",
-                    "status": "wronganswer",
+                    "status": "accepted",
                     "submission": 3,
                     "time": 215,
                     "penalty": 255
@@ -8829,7 +8829,7 @@
                 {
                     "problem_id": "A",
                     "problem_name": "Blueberry Waffle",
-                    "status": "wronganswer",
+                    "status": "accepted",
                     "submission": 3,
                     "time": 65,
                     "penalty": 105
@@ -8837,7 +8837,7 @@
                 {
                     "problem_id": "B",
                     "problem_name": "Fading Wind",
-                    "status": "wronganswer",
+                    "status": "accepted",
                     "submission": 1,
                     "time": 49,
                     "penalty": 49
@@ -8877,7 +8877,7 @@
                 {
                     "problem_id": "G",
                     "problem_name": "Streets Ahead",
-                    "status": "wronganswer",
+                    "status": "accepted",
                     "submission": 7,
                     "time": 278,
                     "penalty": 398
@@ -8885,7 +8885,7 @@
                 {
                     "problem_id": "H",
                     "problem_name": "Sun and Moon",
-                    "status": "wronganswer",
+                    "status": "accepted",
                     "submission": 2,
                     "time": 164,
                     "penalty": 184
@@ -8941,7 +8941,7 @@
                 {
                     "problem_id": "A",
                     "problem_name": "Blueberry Waffle",
-                    "status": "wronganswer",
+                    "status": "accepted",
                     "submission": 4,
                     "time": 159,
                     "penalty": 219
@@ -8949,7 +8949,7 @@
                 {
                     "problem_id": "B",
                     "problem_name": "Fading Wind",
-                    "status": "wronganswer",
+                    "status": "accepted",
                     "submission": 1,
                     "time": 202,
                     "penalty": 202
@@ -8989,7 +8989,7 @@
                 {
                     "problem_id": "G",
                     "problem_name": "Streets Ahead",
-                    "status": "wronganswer",
+                    "status": "accepted",
                     "submission": 2,
                     "time": 180,
                     "penalty": 200
@@ -8997,7 +8997,7 @@
                 {
                     "problem_id": "H",
                     "problem_name": "Sun and Moon",
-                    "status": "wronganswer",
+                    "status": "accepted",
                     "submission": 3,
                     "time": 90,
                     "penalty": 130
@@ -9053,7 +9053,7 @@
                 {
                     "problem_id": "A",
                     "problem_name": "Blueberry Waffle",
-                    "status": "wronganswer",
+                    "status": "accepted",
                     "submission": 1,
                     "time": 104,
                     "penalty": 104
@@ -9061,7 +9061,7 @@
                 {
                     "problem_id": "B",
                     "problem_name": "Fading Wind",
-                    "status": "wronganswer",
+                    "status": "accepted",
                     "submission": 3,
                     "time": 138,
                     "penalty": 178
@@ -9101,7 +9101,7 @@
                 {
                     "problem_id": "G",
                     "problem_name": "Streets Ahead",
-                    "status": "wronganswer",
+                    "status": "accepted",
                     "submission": 5,
                     "time": 282,
                     "penalty": 362
@@ -9109,7 +9109,7 @@
                 {
                     "problem_id": "H",
                     "problem_name": "Sun and Moon",
-                    "status": "wronganswer",
+                    "status": "accepted",
                     "submission": 1,
                     "time": 130,
                     "penalty": 130
@@ -9165,7 +9165,7 @@
                 {
                     "problem_id": "A",
                     "problem_name": "Blueberry Waffle",
-                    "status": "wronganswer",
+                    "status": "accepted",
                     "submission": 1,
                     "time": 40,
                     "penalty": 40
@@ -9173,7 +9173,7 @@
                 {
                     "problem_id": "B",
                     "problem_name": "Fading Wind",
-                    "status": "wronganswer",
+                    "status": "accepted",
                     "submission": 1,
                     "time": 116,
                     "penalty": 116
@@ -9213,7 +9213,7 @@
                 {
                     "problem_id": "G",
                     "problem_name": "Streets Ahead",
-                    "status": "wronganswer",
+                    "status": "accepted",
                     "submission": 4,
                     "time": 271,
                     "penalty": 331
@@ -9221,7 +9221,7 @@
                 {
                     "problem_id": "H",
                     "problem_name": "Sun and Moon",
-                    "status": "wronganswer",
+                    "status": "accepted",
                     "submission": 4,
                     "time": 251,
                     "penalty": 311
@@ -9277,7 +9277,7 @@
                 {
                     "problem_id": "A",
                     "problem_name": "Blueberry Waffle",
-                    "status": "wronganswer",
+                    "status": "accepted",
                     "submission": 4,
                     "time": 135,
                     "penalty": 195
@@ -9285,7 +9285,7 @@
                 {
                     "problem_id": "B",
                     "problem_name": "Fading Wind",
-                    "status": "wronganswer",
+                    "status": "accepted",
                     "submission": 1,
                     "time": 64,
                     "penalty": 64
@@ -9325,7 +9325,7 @@
                 {
                     "problem_id": "G",
                     "problem_name": "Streets Ahead",
-                    "status": "wronganswer",
+                    "status": "accepted",
                     "submission": 2,
                     "time": 255,
                     "penalty": 275
@@ -9333,7 +9333,7 @@
                 {
                     "problem_id": "H",
                     "problem_name": "Sun and Moon",
-                    "status": "wronganswer",
+                    "status": "accepted",
                     "submission": 3,
                     "time": 226,
                     "penalty": 266
@@ -9389,7 +9389,7 @@
                 {
                     "problem_id": "A",
                     "problem_name": "Blueberry Waffle",
-                    "status": "wronganswer",
+                    "status": "accepted",
                     "submission": 1,
                     "time": 15,
                     "penalty": 15
@@ -9397,7 +9397,7 @@
                 {
                     "problem_id": "B",
                     "problem_name": "Fading Wind",
-                    "status": "wronganswer",
+                    "status": "accepted",
                     "submission": 2,
                     "time": 70,
                     "penalty": 90
@@ -9445,7 +9445,7 @@
                 {
                     "problem_id": "H",
                     "problem_name": "Sun and Moon",
-                    "status": "wronganswer",
+                    "status": "accepted",
                     "submission": 1,
                     "time": 27,
                     "penalty": 27
@@ -9501,7 +9501,7 @@
                 {
                     "problem_id": "A",
                     "problem_name": "Blueberry Waffle",
-                    "status": "wronganswer",
+                    "status": "accepted",
                     "submission": 1,
                     "time": 63,
                     "penalty": 63
@@ -9509,7 +9509,7 @@
                 {
                     "problem_id": "B",
                     "problem_name": "Fading Wind",
-                    "status": "wronganswer",
+                    "status": "accepted",
                     "submission": 1,
                     "time": 75,
                     "penalty": 75
@@ -9557,7 +9557,7 @@
                 {
                     "problem_id": "H",
                     "problem_name": "Sun and Moon",
-                    "status": "wronganswer",
+                    "status": "accepted",
                     "submission": 1,
                     "time": 38,
                     "penalty": 38
@@ -9613,7 +9613,7 @@
                 {
                     "problem_id": "A",
                     "problem_name": "Blueberry Waffle",
-                    "status": "wronganswer",
+                    "status": "accepted",
                     "submission": 2,
                     "time": 57,
                     "penalty": 77
@@ -9621,7 +9621,7 @@
                 {
                     "problem_id": "B",
                     "problem_name": "Fading Wind",
-                    "status": "wronganswer",
+                    "status": "accepted",
                     "submission": 1,
                     "time": 14,
                     "penalty": 14
@@ -9669,7 +9669,7 @@
                 {
                     "problem_id": "H",
                     "problem_name": "Sun and Moon",
-                    "status": "wronganswer",
+                    "status": "accepted",
                     "submission": 2,
                     "time": 69,
                     "penalty": 89
@@ -9725,7 +9725,7 @@
                 {
                     "problem_id": "A",
                     "problem_name": "Blueberry Waffle",
-                    "status": "wronganswer",
+                    "status": "accepted",
                     "submission": 1,
                     "time": 26,
                     "penalty": 26
@@ -9733,7 +9733,7 @@
                 {
                     "problem_id": "B",
                     "problem_name": "Fading Wind",
-                    "status": "wronganswer",
+                    "status": "accepted",
                     "submission": 1,
                     "time": 38,
                     "penalty": 38
@@ -9781,7 +9781,7 @@
                 {
                     "problem_id": "H",
                     "problem_name": "Sun and Moon",
-                    "status": "wronganswer",
+                    "status": "accepted",
                     "submission": 1,
                     "time": 126,
                     "penalty": 126
@@ -9837,7 +9837,7 @@
                 {
                     "problem_id": "A",
                     "problem_name": "Blueberry Waffle",
-                    "status": "wronganswer",
+                    "status": "accepted",
                     "submission": 1,
                     "time": 30,
                     "penalty": 30
@@ -9845,7 +9845,7 @@
                 {
                     "problem_id": "B",
                     "problem_name": "Fading Wind",
-                    "status": "wronganswer",
+                    "status": "accepted",
                     "submission": 1,
                     "time": 43,
                     "penalty": 43
@@ -9885,7 +9885,7 @@
                 {
                     "problem_id": "G",
                     "problem_name": "Streets Ahead",
-                    "status": "wronganswer",
+                    "status": "accepted",
                     "submission": 1,
                     "time": 140,
                     "penalty": 140
@@ -9949,7 +9949,7 @@
                 {
                     "problem_id": "A",
                     "problem_name": "Blueberry Waffle",
-                    "status": "wronganswer",
+                    "status": "accepted",
                     "submission": 1,
                     "time": 49,
                     "penalty": 49
@@ -9957,7 +9957,7 @@
                 {
                     "problem_id": "B",
                     "problem_name": "Fading Wind",
-                    "status": "wronganswer",
+                    "status": "accepted",
                     "submission": 1,
                     "time": 107,
                     "penalty": 107
@@ -10005,7 +10005,7 @@
                 {
                     "problem_id": "H",
                     "problem_name": "Sun and Moon",
-                    "status": "wronganswer",
+                    "status": "accepted",
                     "submission": 1,
                     "time": 100,
                     "penalty": 100
@@ -10061,7 +10061,7 @@
                 {
                     "problem_id": "A",
                     "problem_name": "Blueberry Waffle",
-                    "status": "wronganswer",
+                    "status": "accepted",
                     "submission": 1,
                     "time": 23,
                     "penalty": 23
@@ -10069,7 +10069,7 @@
                 {
                     "problem_id": "B",
                     "problem_name": "Fading Wind",
-                    "status": "wronganswer",
+                    "status": "accepted",
                     "submission": 1,
                     "time": 48,
                     "penalty": 48
@@ -10117,7 +10117,7 @@
                 {
                     "problem_id": "H",
                     "problem_name": "Sun and Moon",
-                    "status": "wronganswer",
+                    "status": "accepted",
                     "submission": 2,
                     "time": 171,
                     "penalty": 191
@@ -10173,7 +10173,7 @@
                 {
                     "problem_id": "A",
                     "problem_name": "Blueberry Waffle",
-                    "status": "wronganswer",
+                    "status": "accepted",
                     "submission": 1,
                     "time": 18,
                     "penalty": 18
@@ -10181,7 +10181,7 @@
                 {
                     "problem_id": "B",
                     "problem_name": "Fading Wind",
-                    "status": "wronganswer",
+                    "status": "accepted",
                     "submission": 1,
                     "time": 73,
                     "penalty": 73
@@ -10229,7 +10229,7 @@
                 {
                     "problem_id": "H",
                     "problem_name": "Sun and Moon",
-                    "status": "wronganswer",
+                    "status": "accepted",
                     "submission": 3,
                     "time": 190,
                     "penalty": 230
@@ -10285,7 +10285,7 @@
                 {
                     "problem_id": "A",
                     "problem_name": "Blueberry Waffle",
-                    "status": "wronganswer",
+                    "status": "accepted",
                     "submission": 1,
                     "time": 107,
                     "penalty": 107
@@ -10293,7 +10293,7 @@
                 {
                     "problem_id": "B",
                     "problem_name": "Fading Wind",
-                    "status": "wronganswer",
+                    "status": "accepted",
                     "submission": 1,
                     "time": 112,
                     "penalty": 112
@@ -10333,7 +10333,7 @@
                 {
                     "problem_id": "G",
                     "problem_name": "Streets Ahead",
-                    "status": "wronganswer",
+                    "status": "accepted",
                     "submission": 1,
                     "time": 129,
                     "penalty": 129
@@ -10397,7 +10397,7 @@
                 {
                     "problem_id": "A",
                     "problem_name": "Blueberry Waffle",
-                    "status": "wronganswer",
+                    "status": "accepted",
                     "submission": 3,
                     "time": 107,
                     "penalty": 147
@@ -10405,7 +10405,7 @@
                 {
                     "problem_id": "B",
                     "problem_name": "Fading Wind",
-                    "status": "wronganswer",
+                    "status": "accepted",
                     "submission": 1,
                     "time": 48,
                     "penalty": 48
@@ -10445,7 +10445,7 @@
                 {
                     "problem_id": "G",
                     "problem_name": "Streets Ahead",
-                    "status": "wronganswer",
+                    "status": "accepted",
                     "submission": 4,
                     "time": 147,
                     "penalty": 207
@@ -10509,7 +10509,7 @@
                 {
                     "problem_id": "A",
                     "problem_name": "Blueberry Waffle",
-                    "status": "wronganswer",
+                    "status": "accepted",
                     "submission": 7,
                     "time": 120,
                     "penalty": 240
@@ -10517,7 +10517,7 @@
                 {
                     "problem_id": "B",
                     "problem_name": "Fading Wind",
-                    "status": "wronganswer",
+                    "status": "accepted",
                     "submission": 1,
                     "time": 132,
                     "penalty": 132
@@ -10565,7 +10565,7 @@
                 {
                     "problem_id": "H",
                     "problem_name": "Sun and Moon",
-                    "status": "wronganswer",
+                    "status": "accepted",
                     "submission": 3,
                     "time": 35,
                     "penalty": 75
@@ -10621,7 +10621,7 @@
                 {
                     "problem_id": "A",
                     "problem_name": "Blueberry Waffle",
-                    "status": "wronganswer",
+                    "status": "accepted",
                     "submission": 1,
                     "time": 68,
                     "penalty": 68
@@ -10629,7 +10629,7 @@
                 {
                     "problem_id": "B",
                     "problem_name": "Fading Wind",
-                    "status": "wronganswer",
+                    "status": "accepted",
                     "submission": 1,
                     "time": 233,
                     "penalty": 233
@@ -10677,7 +10677,7 @@
                 {
                     "problem_id": "H",
                     "problem_name": "Sun and Moon",
-                    "status": "wronganswer",
+                    "status": "accepted",
                     "submission": 2,
                     "time": 178,
                     "penalty": 198
@@ -10733,7 +10733,7 @@
                 {
                     "problem_id": "A",
                     "problem_name": "Blueberry Waffle",
-                    "status": "wronganswer",
+                    "status": "accepted",
                     "submission": 3,
                     "time": 73,
                     "penalty": 113
@@ -10741,7 +10741,7 @@
                 {
                     "problem_id": "B",
                     "problem_name": "Fading Wind",
-                    "status": "wronganswer",
+                    "status": "accepted",
                     "submission": 1,
                     "time": 154,
                     "penalty": 154
@@ -10789,7 +10789,7 @@
                 {
                     "problem_id": "H",
                     "problem_name": "Sun and Moon",
-                    "status": "wronganswer",
+                    "status": "accepted",
                     "submission": 1,
                     "time": 251,
                     "penalty": 251
@@ -10845,7 +10845,7 @@
                 {
                     "problem_id": "A",
                     "problem_name": "Blueberry Waffle",
-                    "status": "wronganswer",
+                    "status": "accepted",
                     "submission": 5,
                     "time": 299,
                     "penalty": 379
@@ -10853,7 +10853,7 @@
                 {
                     "problem_id": "B",
                     "problem_name": "Fading Wind",
-                    "status": "wronganswer",
+                    "status": "accepted",
                     "submission": 1,
                     "time": 34,
                     "penalty": 34
@@ -10901,7 +10901,7 @@
                 {
                     "problem_id": "H",
                     "problem_name": "Sun and Moon",
-                    "status": "wronganswer",
+                    "status": "accepted",
                     "submission": 1,
                     "time": 112,
                     "penalty": 112
@@ -10957,7 +10957,7 @@
                 {
                     "problem_id": "A",
                     "problem_name": "Blueberry Waffle",
-                    "status": "wronganswer",
+                    "status": "accepted",
                     "submission": 6,
                     "time": 236,
                     "penalty": 336
@@ -10965,7 +10965,7 @@
                 {
                     "problem_id": "B",
                     "problem_name": "Fading Wind",
-                    "status": "wronganswer",
+                    "status": "accepted",
                     "submission": 2,
                     "time": 63,
                     "penalty": 83
@@ -11005,7 +11005,7 @@
                 {
                     "problem_id": "G",
                     "problem_name": "Streets Ahead",
-                    "status": "wronganswer",
+                    "status": "accepted",
                     "submission": 3,
                     "time": 296,
                     "penalty": 336
@@ -11069,7 +11069,7 @@
                 {
                     "problem_id": "A",
                     "problem_name": "Blueberry Waffle",
-                    "status": "wronganswer",
+                    "status": "accepted",
                     "submission": 1,
                     "time": 22,
                     "penalty": 22
@@ -11077,7 +11077,7 @@
                 {
                     "problem_id": "B",
                     "problem_name": "Fading Wind",
-                    "status": "wronganswer",
+                    "status": "accepted",
                     "submission": 1,
                     "time": 55,
                     "penalty": 55
@@ -11181,7 +11181,7 @@
                 {
                     "problem_id": "A",
                     "problem_name": "Blueberry Waffle",
-                    "status": "wronganswer",
+                    "status": "accepted",
                     "submission": 1,
                     "time": 53,
                     "penalty": 53
@@ -11189,7 +11189,7 @@
                 {
                     "problem_id": "B",
                     "problem_name": "Fading Wind",
-                    "status": "wronganswer",
+                    "status": "accepted",
                     "submission": 1,
                     "time": 65,
                     "penalty": 65
@@ -11293,7 +11293,7 @@
                 {
                     "problem_id": "A",
                     "problem_name": "Blueberry Waffle",
-                    "status": "wronganswer",
+                    "status": "accepted",
                     "submission": 1,
                     "time": 84,
                     "penalty": 84
@@ -11301,7 +11301,7 @@
                 {
                     "problem_id": "B",
                     "problem_name": "Fading Wind",
-                    "status": "wronganswer",
+                    "status": "accepted",
                     "submission": 1,
                     "time": 112,
                     "penalty": 112
@@ -11413,7 +11413,7 @@
                 {
                     "problem_id": "B",
                     "problem_name": "Fading Wind",
-                    "status": "wronganswer",
+                    "status": "accepted",
                     "submission": 1,
                     "time": 25,
                     "penalty": 25
@@ -11461,7 +11461,7 @@
                 {
                     "problem_id": "H",
                     "problem_name": "Sun and Moon",
-                    "status": "wronganswer",
+                    "status": "accepted",
                     "submission": 1,
                     "time": 178,
                     "penalty": 178
@@ -11517,7 +11517,7 @@
                 {
                     "problem_id": "A",
                     "problem_name": "Blueberry Waffle",
-                    "status": "wronganswer",
+                    "status": "accepted",
                     "submission": 3,
                     "time": 81,
                     "penalty": 121
@@ -11525,7 +11525,7 @@
                 {
                     "problem_id": "B",
                     "problem_name": "Fading Wind",
-                    "status": "wronganswer",
+                    "status": "accepted",
                     "submission": 1,
                     "time": 95,
                     "penalty": 95
@@ -11629,7 +11629,7 @@
                 {
                     "problem_id": "A",
                     "problem_name": "Blueberry Waffle",
-                    "status": "wronganswer",
+                    "status": "accepted",
                     "submission": 2,
                     "time": 58,
                     "penalty": 78
@@ -11637,7 +11637,7 @@
                 {
                     "problem_id": "B",
                     "problem_name": "Fading Wind",
-                    "status": "wronganswer",
+                    "status": "accepted",
                     "submission": 2,
                     "time": 123,
                     "penalty": 143
@@ -11741,7 +11741,7 @@
                 {
                     "problem_id": "A",
                     "problem_name": "Blueberry Waffle",
-                    "status": "wronganswer",
+                    "status": "accepted",
                     "submission": 3,
                     "time": 149,
                     "penalty": 189
@@ -11749,7 +11749,7 @@
                 {
                     "problem_id": "B",
                     "problem_name": "Fading Wind",
-                    "status": "wronganswer",
+                    "status": "accepted",
                     "submission": 1,
                     "time": 52,
                     "penalty": 52
@@ -11853,7 +11853,7 @@
                 {
                     "problem_id": "A",
                     "problem_name": "Blueberry Waffle",
-                    "status": "wronganswer",
+                    "status": "accepted",
                     "submission": 7,
                     "time": 96,
                     "penalty": 216
@@ -11861,7 +11861,7 @@
                 {
                     "problem_id": "B",
                     "problem_name": "Fading Wind",
-                    "status": "wronganswer",
+                    "status": "accepted",
                     "submission": 1,
                     "time": 71,
                     "penalty": 71
@@ -11965,7 +11965,7 @@
                 {
                     "problem_id": "A",
                     "problem_name": "Blueberry Waffle",
-                    "status": "wronganswer",
+                    "status": "accepted",
                     "submission": 5,
                     "time": 160,
                     "penalty": 240
@@ -11973,7 +11973,7 @@
                 {
                     "problem_id": "B",
                     "problem_name": "Fading Wind",
-                    "status": "wronganswer",
+                    "status": "accepted",
                     "submission": 2,
                     "time": 53,
                     "penalty": 73
@@ -12077,7 +12077,7 @@
                 {
                     "problem_id": "A",
                     "problem_name": "Blueberry Waffle",
-                    "status": "wronganswer",
+                    "status": "accepted",
                     "submission": 4,
                     "time": 227,
                     "penalty": 287
@@ -12085,7 +12085,7 @@
                 {
                     "problem_id": "B",
                     "problem_name": "Fading Wind",
-                    "status": "wronganswer",
+                    "status": "accepted",
                     "submission": 1,
                     "time": 51,
                     "penalty": 51
@@ -12189,7 +12189,7 @@
                 {
                     "problem_id": "A",
                     "problem_name": "Blueberry Waffle",
-                    "status": "wronganswer",
+                    "status": "accepted",
                     "submission": 5,
                     "time": 267,
                     "penalty": 347
@@ -12197,7 +12197,7 @@
                 {
                     "problem_id": "B",
                     "problem_name": "Fading Wind",
-                    "status": "wronganswer",
+                    "status": "accepted",
                     "submission": 1,
                     "time": 28,
                     "penalty": 28
@@ -12301,7 +12301,7 @@
                 {
                     "problem_id": "A",
                     "problem_name": "Blueberry Waffle",
-                    "status": "wronganswer",
+                    "status": "accepted",
                     "submission": 9,
                     "time": 188,
                     "penalty": 348
@@ -12309,7 +12309,7 @@
                 {
                     "problem_id": "B",
                     "problem_name": "Fading Wind",
-                    "status": "wronganswer",
+                    "status": "accepted",
                     "submission": 8,
                     "time": 201,
                     "penalty": 341
@@ -12413,7 +12413,7 @@
                 {
                     "problem_id": "A",
                     "problem_name": "Blueberry Waffle",
-                    "status": "wronganswer",
+                    "status": "accepted",
                     "submission": 1,
                     "time": 57,
                     "penalty": 57
@@ -12533,7 +12533,7 @@
                 {
                     "problem_id": "B",
                     "problem_name": "Fading Wind",
-                    "status": "wronganswer",
+                    "status": "accepted",
                     "submission": 1,
                     "time": 144,
                     "penalty": 144
@@ -12645,7 +12645,7 @@
                 {
                     "problem_id": "B",
                     "problem_name": "Fading Wind",
-                    "status": "wronganswer",
+                    "status": "accepted",
                     "submission": 1,
                     "time": 283,
                     "penalty": 283
