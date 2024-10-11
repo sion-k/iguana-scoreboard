@@ -1,0 +1,3729 @@
+{
+    "duration": 300,
+    "contestants": [
+        {
+            "contestant_id": "1",
+            "contestant_name": "Mercer Binary Bears Team B"
+        },
+        {
+            "contestant_id": "2",
+            "contestant_name": "Crimson Team 1"
+        },
+        {
+            "contestant_id": "3",
+            "contestant_name": "UWF Team #1"
+        },
+        {
+            "contestant_id": "4",
+            "contestant_name": "Crimson Team 2"
+        },
+        {
+            "contestant_id": "5",
+            "contestant_name": "USF Uzbeks"
+        },
+        {
+            "contestant_id": "6",
+            "contestant_name": "Mercer Binary Bears Team C"
+        },
+        {
+            "contestant_id": "7",
+            "contestant_name": "Crimson Team 5"
+        },
+        {
+            "contestant_id": "8",
+            "contestant_name": "Crimson Team 4"
+        },
+        {
+            "contestant_id": "9",
+            "contestant_name": "Mercer Binary Bears Team D"
+        },
+        {
+            "contestant_id": "10",
+            "contestant_name": "Mercer Binary Bears Team A"
+        },
+        {
+            "contestant_id": "11",
+            "contestant_name": "Crimson Team 3"
+        },
+        {
+            "contestant_id": "12",
+            "contestant_name": "Lander 2"
+        },
+        {
+            "contestant_id": "13",
+            "contestant_name": "cofcA"
+        },
+        {
+            "contestant_id": "14",
+            "contestant_name": "WoCoders"
+        },
+        {
+            "contestant_id": "15",
+            "contestant_name": "astro_coders"
+        },
+        {
+            "contestant_id": "16",
+            "contestant_name": "First String"
+        },
+        {
+            "contestant_id": "17",
+            "contestant_name": "Halal Habibis"
+        },
+        {
+            "contestant_id": "18",
+            "contestant_name": "Pythonistas@USF"
+        },
+        {
+            "contestant_id": "19",
+            "contestant_name": "CofcB"
+        },
+        {
+            "contestant_id": "20",
+            "contestant_name": "goto USF;"
+        },
+        {
+            "contestant_id": "21",
+            "contestant_name": "UWF Team #2"
+        },
+        {
+            "contestant_id": "22",
+            "contestant_name": "UWF Team #4"
+        },
+        {
+            "contestant_id": "23",
+            "contestant_name": "Lander 1"
+        },
+        {
+            "contestant_id": "24",
+            "contestant_name": "CyberDogs"
+        },
+        {
+            "contestant_id": "25",
+            "contestant_name": "Terriers"
+        },
+        {
+            "contestant_id": "26",
+            "contestant_name": "USF Bools"
+        },
+        {
+            "contestant_id": "27",
+            "contestant_name": "Uninitialized"
+        },
+        {
+            "contestant_id": "28",
+            "contestant_name": "USF Nulls"
+        },
+        {
+            "contestant_id": "29",
+            "contestant_name": "Mercer Binary Bears Team E"
+        },
+        {
+            "contestant_id": "30",
+            "contestant_name": "Bulldog Bytes"
+        },
+        {
+            "contestant_id": "31",
+            "contestant_name": "USF Coders"
+        },
+        {
+            "contestant_id": "32",
+            "contestant_name": "60 + 1 Byte Dawgs"
+        },
+        {
+            "contestant_id": "33",
+            "contestant_name": "Lander 3"
+        },
+        {
+            "contestant_id": "34",
+            "contestant_name": "UWF Team #3"
+        }
+    ],
+    "problems": [
+        {
+            "problem_id": "A",
+            "problem_name": "Average Character"
+        },
+        {
+            "problem_id": "B",
+            "problem_name": "Black and White"
+        },
+        {
+            "problem_id": "C",
+            "problem_name": "Diagonals"
+        },
+        {
+            "problem_id": "D",
+            "problem_name": "Dorm Room Divide"
+        },
+        {
+            "problem_id": "E",
+            "problem_name": "Double Password"
+        },
+        {
+            "problem_id": "F",
+            "problem_name": "Overdraft"
+        },
+        {
+            "problem_id": "G",
+            "problem_name": "Rise and Fall"
+        },
+        {
+            "problem_id": "H",
+            "problem_name": "Square Bounce"
+        },
+        {
+            "problem_id": "I",
+            "problem_name": "Tetris Generation"
+        },
+        {
+            "problem_id": "J",
+            "problem_name": "Tournament Seeding"
+        },
+        {
+            "problem_id": "K",
+            "problem_name": "Tree Hopping"
+        },
+        {
+            "problem_id": "L",
+            "problem_name": "Who Goes There?"
+        }
+    ],
+    "standings": [
+        {
+            "contestant_id": "1",
+            "contestant_name": "Mercer Binary Bears Team B",
+            "solve": 7,
+            "penalty": 642,
+            "judge": [
+                {
+                    "problem_id": "A",
+                    "problem_name": "Average Character",
+                    "status": "accepted",
+                    "submission": 4,
+                    "time": 36,
+                    "penalty": 96
+                },
+                {
+                    "problem_id": "B",
+                    "problem_name": "Black and White",
+                    "status": null,
+                    "submission": 0,
+                    "time": null,
+                    "penalty": null
+                },
+                {
+                    "problem_id": "C",
+                    "problem_name": "Diagonals",
+                    "status": null,
+                    "submission": 0,
+                    "time": null,
+                    "penalty": null
+                },
+                {
+                    "problem_id": "D",
+                    "problem_name": "Dorm Room Divide",
+                    "status": "wronganswer",
+                    "submission": 1,
+                    "time": null,
+                    "penalty": null
+                },
+                {
+                    "problem_id": "E",
+                    "problem_name": "Double Password",
+                    "status": "accepted",
+                    "submission": 1,
+                    "time": 18,
+                    "penalty": 18
+                },
+                {
+                    "problem_id": "F",
+                    "problem_name": "Overdraft",
+                    "status": "accepted",
+                    "submission": 1,
+                    "time": 27,
+                    "penalty": 27
+                },
+                {
+                    "problem_id": "G",
+                    "problem_name": "Rise and Fall",
+                    "status": "accepted",
+                    "submission": 1,
+                    "time": 135,
+                    "penalty": 135
+                },
+                {
+                    "problem_id": "H",
+                    "problem_name": "Square Bounce",
+                    "status": "accepted",
+                    "submission": 1,
+                    "time": 146,
+                    "penalty": 146
+                },
+                {
+                    "problem_id": "I",
+                    "problem_name": "Tetris Generation",
+                    "status": "accepted",
+                    "submission": 2,
+                    "time": 93,
+                    "penalty": 113
+                },
+                {
+                    "problem_id": "J",
+                    "problem_name": "Tournament Seeding",
+                    "status": null,
+                    "submission": 0,
+                    "time": null,
+                    "penalty": null
+                },
+                {
+                    "problem_id": "K",
+                    "problem_name": "Tree Hopping",
+                    "status": null,
+                    "submission": 0,
+                    "time": null,
+                    "penalty": null
+                },
+                {
+                    "problem_id": "L",
+                    "problem_name": "Who Goes There?",
+                    "status": "accepted",
+                    "submission": 1,
+                    "time": 107,
+                    "penalty": 107
+                }
+            ]
+        },
+        {
+            "contestant_id": "2",
+            "contestant_name": "Crimson Team 1",
+            "solve": 7,
+            "penalty": 921,
+            "judge": [
+                {
+                    "problem_id": "A",
+                    "problem_name": "Average Character",
+                    "status": "accepted",
+                    "submission": 2,
+                    "time": 15,
+                    "penalty": 35
+                },
+                {
+                    "problem_id": "B",
+                    "problem_name": "Black and White",
+                    "status": null,
+                    "submission": 0,
+                    "time": null,
+                    "penalty": null
+                },
+                {
+                    "problem_id": "C",
+                    "problem_name": "Diagonals",
+                    "status": null,
+                    "submission": 0,
+                    "time": null,
+                    "penalty": null
+                },
+                {
+                    "problem_id": "D",
+                    "problem_name": "Dorm Room Divide",
+                    "status": null,
+                    "submission": 0,
+                    "time": null,
+                    "penalty": null
+                },
+                {
+                    "problem_id": "E",
+                    "problem_name": "Double Password",
+                    "status": "accepted",
+                    "submission": 1,
+                    "time": 32,
+                    "penalty": 32
+                },
+                {
+                    "problem_id": "F",
+                    "problem_name": "Overdraft",
+                    "status": "accepted",
+                    "submission": 2,
+                    "time": 65,
+                    "penalty": 85
+                },
+                {
+                    "problem_id": "G",
+                    "problem_name": "Rise and Fall",
+                    "status": "accepted",
+                    "submission": 2,
+                    "time": 143,
+                    "penalty": 163
+                },
+                {
+                    "problem_id": "H",
+                    "problem_name": "Square Bounce",
+                    "status": "accepted",
+                    "submission": 1,
+                    "time": 271,
+                    "penalty": 271
+                },
+                {
+                    "problem_id": "I",
+                    "problem_name": "Tetris Generation",
+                    "status": "accepted",
+                    "submission": 1,
+                    "time": 121,
+                    "penalty": 121
+                },
+                {
+                    "problem_id": "J",
+                    "problem_name": "Tournament Seeding",
+                    "status": null,
+                    "submission": 0,
+                    "time": null,
+                    "penalty": null
+                },
+                {
+                    "problem_id": "K",
+                    "problem_name": "Tree Hopping",
+                    "status": "wronganswer",
+                    "submission": 7,
+                    "time": null,
+                    "penalty": null
+                },
+                {
+                    "problem_id": "L",
+                    "problem_name": "Who Goes There?",
+                    "status": "accepted",
+                    "submission": 4,
+                    "time": 154,
+                    "penalty": 214
+                }
+            ]
+        },
+        {
+            "contestant_id": "3",
+            "contestant_name": "UWF Team #1",
+            "solve": 7,
+            "penalty": 960,
+            "judge": [
+                {
+                    "problem_id": "A",
+                    "problem_name": "Average Character",
+                    "status": "accepted",
+                    "submission": 1,
+                    "time": 29,
+                    "penalty": 29
+                },
+                {
+                    "problem_id": "B",
+                    "problem_name": "Black and White",
+                    "status": null,
+                    "submission": 0,
+                    "time": null,
+                    "penalty": null
+                },
+                {
+                    "problem_id": "C",
+                    "problem_name": "Diagonals",
+                    "status": null,
+                    "submission": 0,
+                    "time": null,
+                    "penalty": null
+                },
+                {
+                    "problem_id": "D",
+                    "problem_name": "Dorm Room Divide",
+                    "status": "accepted",
+                    "submission": 5,
+                    "time": 203,
+                    "penalty": 283
+                },
+                {
+                    "problem_id": "E",
+                    "problem_name": "Double Password",
+                    "status": "accepted",
+                    "submission": 1,
+                    "time": 64,
+                    "penalty": 64
+                },
+                {
+                    "problem_id": "F",
+                    "problem_name": "Overdraft",
+                    "status": "accepted",
+                    "submission": 1,
+                    "time": 23,
+                    "penalty": 23
+                },
+                {
+                    "problem_id": "G",
+                    "problem_name": "Rise and Fall",
+                    "status": "wronganswer",
+                    "submission": 2,
+                    "time": null,
+                    "penalty": null
+                },
+                {
+                    "problem_id": "H",
+                    "problem_name": "Square Bounce",
+                    "status": "accepted",
+                    "submission": 6,
+                    "time": 294,
+                    "penalty": 394
+                },
+                {
+                    "problem_id": "I",
+                    "problem_name": "Tetris Generation",
+                    "status": "accepted",
+                    "submission": 1,
+                    "time": 111,
+                    "penalty": 111
+                },
+                {
+                    "problem_id": "J",
+                    "problem_name": "Tournament Seeding",
+                    "status": null,
+                    "submission": 0,
+                    "time": null,
+                    "penalty": null
+                },
+                {
+                    "problem_id": "K",
+                    "problem_name": "Tree Hopping",
+                    "status": null,
+                    "submission": 0,
+                    "time": null,
+                    "penalty": null
+                },
+                {
+                    "problem_id": "L",
+                    "problem_name": "Who Goes There?",
+                    "status": "accepted",
+                    "submission": 1,
+                    "time": 56,
+                    "penalty": 56
+                }
+            ]
+        },
+        {
+            "contestant_id": "4",
+            "contestant_name": "Crimson Team 2",
+            "solve": 7,
+            "penalty": 1192,
+            "judge": [
+                {
+                    "problem_id": "A",
+                    "problem_name": "Average Character",
+                    "status": "accepted",
+                    "submission": 5,
+                    "time": 120,
+                    "penalty": 200
+                },
+                {
+                    "problem_id": "B",
+                    "problem_name": "Black and White",
+                    "status": null,
+                    "submission": 0,
+                    "time": null,
+                    "penalty": null
+                },
+                {
+                    "problem_id": "C",
+                    "problem_name": "Diagonals",
+                    "status": null,
+                    "submission": 0,
+                    "time": null,
+                    "penalty": null
+                },
+                {
+                    "problem_id": "D",
+                    "problem_name": "Dorm Room Divide",
+                    "status": null,
+                    "submission": 0,
+                    "time": null,
+                    "penalty": null
+                },
+                {
+                    "problem_id": "E",
+                    "problem_name": "Double Password",
+                    "status": "accepted",
+                    "submission": 1,
+                    "time": 24,
+                    "penalty": 24
+                },
+                {
+                    "problem_id": "F",
+                    "problem_name": "Overdraft",
+                    "status": "accepted",
+                    "submission": 1,
+                    "time": 20,
+                    "penalty": 20
+                },
+                {
+                    "problem_id": "G",
+                    "problem_name": "Rise and Fall",
+                    "status": "accepted",
+                    "submission": 2,
+                    "time": 74,
+                    "penalty": 94
+                },
+                {
+                    "problem_id": "H",
+                    "problem_name": "Square Bounce",
+                    "status": null,
+                    "submission": 0,
+                    "time": null,
+                    "penalty": null
+                },
+                {
+                    "problem_id": "I",
+                    "problem_name": "Tetris Generation",
+                    "status": "accepted",
+                    "submission": 3,
+                    "time": 278,
+                    "penalty": 318
+                },
+                {
+                    "problem_id": "J",
+                    "problem_name": "Tournament Seeding",
+                    "status": "accepted",
+                    "submission": 2,
+                    "time": 239,
+                    "penalty": 259
+                },
+                {
+                    "problem_id": "K",
+                    "problem_name": "Tree Hopping",
+                    "status": null,
+                    "submission": 0,
+                    "time": null,
+                    "penalty": null
+                },
+                {
+                    "problem_id": "L",
+                    "problem_name": "Who Goes There?",
+                    "status": "accepted",
+                    "submission": 6,
+                    "time": 177,
+                    "penalty": 277
+                }
+            ]
+        },
+        {
+            "contestant_id": "5",
+            "contestant_name": "USF Uzbeks",
+            "solve": 6,
+            "penalty": 525,
+            "judge": [
+                {
+                    "problem_id": "A",
+                    "problem_name": "Average Character",
+                    "status": "accepted",
+                    "submission": 1,
+                    "time": 7,
+                    "penalty": 7
+                },
+                {
+                    "problem_id": "B",
+                    "problem_name": "Black and White",
+                    "status": null,
+                    "submission": 0,
+                    "time": null,
+                    "penalty": null
+                },
+                {
+                    "problem_id": "C",
+                    "problem_name": "Diagonals",
+                    "status": null,
+                    "submission": 0,
+                    "time": null,
+                    "penalty": null
+                },
+                {
+                    "problem_id": "D",
+                    "problem_name": "Dorm Room Divide",
+                    "status": null,
+                    "submission": 0,
+                    "time": null,
+                    "penalty": null
+                },
+                {
+                    "problem_id": "E",
+                    "problem_name": "Double Password",
+                    "status": "accepted",
+                    "submission": 2,
+                    "time": 31,
+                    "penalty": 51
+                },
+                {
+                    "problem_id": "F",
+                    "problem_name": "Overdraft",
+                    "status": "accepted",
+                    "submission": 1,
+                    "time": 21,
+                    "penalty": 21
+                },
+                {
+                    "problem_id": "G",
+                    "problem_name": "Rise and Fall",
+                    "status": "accepted",
+                    "submission": 1,
+                    "time": 110,
+                    "penalty": 110
+                },
+                {
+                    "problem_id": "H",
+                    "problem_name": "Square Bounce",
+                    "status": null,
+                    "submission": 0,
+                    "time": null,
+                    "penalty": null
+                },
+                {
+                    "problem_id": "I",
+                    "problem_name": "Tetris Generation",
+                    "status": "accepted",
+                    "submission": 1,
+                    "time": 287,
+                    "penalty": 287
+                },
+                {
+                    "problem_id": "J",
+                    "problem_name": "Tournament Seeding",
+                    "status": null,
+                    "submission": 0,
+                    "time": null,
+                    "penalty": null
+                },
+                {
+                    "problem_id": "K",
+                    "problem_name": "Tree Hopping",
+                    "status": null,
+                    "submission": 0,
+                    "time": null,
+                    "penalty": null
+                },
+                {
+                    "problem_id": "L",
+                    "problem_name": "Who Goes There?",
+                    "status": "accepted",
+                    "submission": 1,
+                    "time": 49,
+                    "penalty": 49
+                }
+            ]
+        },
+        {
+            "contestant_id": "6",
+            "contestant_name": "Mercer Binary Bears Team C",
+            "solve": 6,
+            "penalty": 572,
+            "judge": [
+                {
+                    "problem_id": "A",
+                    "problem_name": "Average Character",
+                    "status": "accepted",
+                    "submission": 1,
+                    "time": 43,
+                    "penalty": 43
+                },
+                {
+                    "problem_id": "B",
+                    "problem_name": "Black and White",
+                    "status": "wronganswer",
+                    "submission": 3,
+                    "time": null,
+                    "penalty": null
+                },
+                {
+                    "problem_id": "C",
+                    "problem_name": "Diagonals",
+                    "status": "wronganswer",
+                    "submission": 1,
+                    "time": null,
+                    "penalty": null
+                },
+                {
+                    "problem_id": "D",
+                    "problem_name": "Dorm Room Divide",
+                    "status": null,
+                    "submission": 0,
+                    "time": null,
+                    "penalty": null
+                },
+                {
+                    "problem_id": "E",
+                    "problem_name": "Double Password",
+                    "status": "accepted",
+                    "submission": 1,
+                    "time": 6,
+                    "penalty": 6
+                },
+                {
+                    "problem_id": "F",
+                    "problem_name": "Overdraft",
+                    "status": "accepted",
+                    "submission": 1,
+                    "time": 36,
+                    "penalty": 36
+                },
+                {
+                    "problem_id": "G",
+                    "problem_name": "Rise and Fall",
+                    "status": "accepted",
+                    "submission": 4,
+                    "time": 94,
+                    "penalty": 154
+                },
+                {
+                    "problem_id": "H",
+                    "problem_name": "Square Bounce",
+                    "status": null,
+                    "submission": 0,
+                    "time": null,
+                    "penalty": null
+                },
+                {
+                    "problem_id": "I",
+                    "problem_name": "Tetris Generation",
+                    "status": "accepted",
+                    "submission": 5,
+                    "time": 159,
+                    "penalty": 239
+                },
+                {
+                    "problem_id": "J",
+                    "problem_name": "Tournament Seeding",
+                    "status": null,
+                    "submission": 0,
+                    "time": null,
+                    "penalty": null
+                },
+                {
+                    "problem_id": "K",
+                    "problem_name": "Tree Hopping",
+                    "status": null,
+                    "submission": 0,
+                    "time": null,
+                    "penalty": null
+                },
+                {
+                    "problem_id": "L",
+                    "problem_name": "Who Goes There?",
+                    "status": "accepted",
+                    "submission": 2,
+                    "time": 74,
+                    "penalty": 94
+                }
+            ]
+        },
+        {
+            "contestant_id": "7",
+            "contestant_name": "Crimson Team 5",
+            "solve": 6,
+            "penalty": 699,
+            "judge": [
+                {
+                    "problem_id": "A",
+                    "problem_name": "Average Character",
+                    "status": "accepted",
+                    "submission": 2,
+                    "time": 16,
+                    "penalty": 36
+                },
+                {
+                    "problem_id": "B",
+                    "problem_name": "Black and White",
+                    "status": "wronganswer",
+                    "submission": 2,
+                    "time": null,
+                    "penalty": null
+                },
+                {
+                    "problem_id": "C",
+                    "problem_name": "Diagonals",
+                    "status": null,
+                    "submission": 0,
+                    "time": null,
+                    "penalty": null
+                },
+                {
+                    "problem_id": "D",
+                    "problem_name": "Dorm Room Divide",
+                    "status": null,
+                    "submission": 0,
+                    "time": null,
+                    "penalty": null
+                },
+                {
+                    "problem_id": "E",
+                    "problem_name": "Double Password",
+                    "status": "accepted",
+                    "submission": 1,
+                    "time": 9,
+                    "penalty": 9
+                },
+                {
+                    "problem_id": "F",
+                    "problem_name": "Overdraft",
+                    "status": "accepted",
+                    "submission": 1,
+                    "time": 23,
+                    "penalty": 23
+                },
+                {
+                    "problem_id": "G",
+                    "problem_name": "Rise and Fall",
+                    "status": "accepted",
+                    "submission": 4,
+                    "time": 167,
+                    "penalty": 227
+                },
+                {
+                    "problem_id": "H",
+                    "problem_name": "Square Bounce",
+                    "status": null,
+                    "submission": 0,
+                    "time": null,
+                    "penalty": null
+                },
+                {
+                    "problem_id": "I",
+                    "problem_name": "Tetris Generation",
+                    "status": "accepted",
+                    "submission": 5,
+                    "time": 235,
+                    "penalty": 315
+                },
+                {
+                    "problem_id": "J",
+                    "problem_name": "Tournament Seeding",
+                    "status": "wronganswer",
+                    "submission": 1,
+                    "time": null,
+                    "penalty": null
+                },
+                {
+                    "problem_id": "K",
+                    "problem_name": "Tree Hopping",
+                    "status": null,
+                    "submission": 0,
+                    "time": null,
+                    "penalty": null
+                },
+                {
+                    "problem_id": "L",
+                    "problem_name": "Who Goes There?",
+                    "status": "accepted",
+                    "submission": 1,
+                    "time": 89,
+                    "penalty": 89
+                }
+            ]
+        },
+        {
+            "contestant_id": "8",
+            "contestant_name": "Crimson Team 4",
+            "solve": 6,
+            "penalty": 721,
+            "judge": [
+                {
+                    "problem_id": "A",
+                    "problem_name": "Average Character",
+                    "status": "accepted",
+                    "submission": 2,
+                    "time": 56,
+                    "penalty": 76
+                },
+                {
+                    "problem_id": "B",
+                    "problem_name": "Black and White",
+                    "status": null,
+                    "submission": 0,
+                    "time": null,
+                    "penalty": null
+                },
+                {
+                    "problem_id": "C",
+                    "problem_name": "Diagonals",
+                    "status": null,
+                    "submission": 0,
+                    "time": null,
+                    "penalty": null
+                },
+                {
+                    "problem_id": "D",
+                    "problem_name": "Dorm Room Divide",
+                    "status": null,
+                    "submission": 0,
+                    "time": null,
+                    "penalty": null
+                },
+                {
+                    "problem_id": "E",
+                    "problem_name": "Double Password",
+                    "status": "accepted",
+                    "submission": 1,
+                    "time": 12,
+                    "penalty": 12
+                },
+                {
+                    "problem_id": "F",
+                    "problem_name": "Overdraft",
+                    "status": "accepted",
+                    "submission": 3,
+                    "time": 48,
+                    "penalty": 88
+                },
+                {
+                    "problem_id": "G",
+                    "problem_name": "Rise and Fall",
+                    "status": "accepted",
+                    "submission": 3,
+                    "time": 195,
+                    "penalty": 235
+                },
+                {
+                    "problem_id": "H",
+                    "problem_name": "Square Bounce",
+                    "status": "wronganswer",
+                    "submission": 1,
+                    "time": null,
+                    "penalty": null
+                },
+                {
+                    "problem_id": "I",
+                    "problem_name": "Tetris Generation",
+                    "status": "accepted",
+                    "submission": 2,
+                    "time": 252,
+                    "penalty": 272
+                },
+                {
+                    "problem_id": "J",
+                    "problem_name": "Tournament Seeding",
+                    "status": null,
+                    "submission": 0,
+                    "time": null,
+                    "penalty": null
+                },
+                {
+                    "problem_id": "K",
+                    "problem_name": "Tree Hopping",
+                    "status": null,
+                    "submission": 0,
+                    "time": null,
+                    "penalty": null
+                },
+                {
+                    "problem_id": "L",
+                    "problem_name": "Who Goes There?",
+                    "status": "accepted",
+                    "submission": 1,
+                    "time": 38,
+                    "penalty": 38
+                }
+            ]
+        },
+        {
+            "contestant_id": "9",
+            "contestant_name": "Mercer Binary Bears Team D",
+            "solve": 5,
+            "penalty": 300,
+            "judge": [
+                {
+                    "problem_id": "A",
+                    "problem_name": "Average Character",
+                    "status": "accepted",
+                    "submission": 1,
+                    "time": 5,
+                    "penalty": 5
+                },
+                {
+                    "problem_id": "B",
+                    "problem_name": "Black and White",
+                    "status": null,
+                    "submission": 0,
+                    "time": null,
+                    "penalty": null
+                },
+                {
+                    "problem_id": "C",
+                    "problem_name": "Diagonals",
+                    "status": null,
+                    "submission": 0,
+                    "time": null,
+                    "penalty": null
+                },
+                {
+                    "problem_id": "D",
+                    "problem_name": "Dorm Room Divide",
+                    "status": null,
+                    "submission": 0,
+                    "time": null,
+                    "penalty": null
+                },
+                {
+                    "problem_id": "E",
+                    "problem_name": "Double Password",
+                    "status": "accepted",
+                    "submission": 1,
+                    "time": 12,
+                    "penalty": 12
+                },
+                {
+                    "problem_id": "F",
+                    "problem_name": "Overdraft",
+                    "status": "accepted",
+                    "submission": 1,
+                    "time": 19,
+                    "penalty": 19
+                },
+                {
+                    "problem_id": "G",
+                    "problem_name": "Rise and Fall",
+                    "status": "accepted",
+                    "submission": 3,
+                    "time": 149,
+                    "penalty": 189
+                },
+                {
+                    "problem_id": "H",
+                    "problem_name": "Square Bounce",
+                    "status": null,
+                    "submission": 0,
+                    "time": null,
+                    "penalty": null
+                },
+                {
+                    "problem_id": "I",
+                    "problem_name": "Tetris Generation",
+                    "status": "wronganswer",
+                    "submission": 2,
+                    "time": null,
+                    "penalty": null
+                },
+                {
+                    "problem_id": "J",
+                    "problem_name": "Tournament Seeding",
+                    "status": null,
+                    "submission": 0,
+                    "time": null,
+                    "penalty": null
+                },
+                {
+                    "problem_id": "K",
+                    "problem_name": "Tree Hopping",
+                    "status": "wronganswer",
+                    "submission": 1,
+                    "time": null,
+                    "penalty": null
+                },
+                {
+                    "problem_id": "L",
+                    "problem_name": "Who Goes There?",
+                    "status": "accepted",
+                    "submission": 1,
+                    "time": 75,
+                    "penalty": 75
+                }
+            ]
+        },
+        {
+            "contestant_id": "10",
+            "contestant_name": "Mercer Binary Bears Team A",
+            "solve": 5,
+            "penalty": 304,
+            "judge": [
+                {
+                    "problem_id": "A",
+                    "problem_name": "Average Character",
+                    "status": "accepted",
+                    "submission": 2,
+                    "time": 5,
+                    "penalty": 25
+                },
+                {
+                    "problem_id": "B",
+                    "problem_name": "Black and White",
+                    "status": null,
+                    "submission": 0,
+                    "time": null,
+                    "penalty": null
+                },
+                {
+                    "problem_id": "C",
+                    "problem_name": "Diagonals",
+                    "status": null,
+                    "submission": 0,
+                    "time": null,
+                    "penalty": null
+                },
+                {
+                    "problem_id": "D",
+                    "problem_name": "Dorm Room Divide",
+                    "status": "wronganswer",
+                    "submission": 1,
+                    "time": null,
+                    "penalty": null
+                },
+                {
+                    "problem_id": "E",
+                    "problem_name": "Double Password",
+                    "status": "accepted",
+                    "submission": 1,
+                    "time": 43,
+                    "penalty": 43
+                },
+                {
+                    "problem_id": "F",
+                    "problem_name": "Overdraft",
+                    "status": "accepted",
+                    "submission": 1,
+                    "time": 18,
+                    "penalty": 18
+                },
+                {
+                    "problem_id": "G",
+                    "problem_name": "Rise and Fall",
+                    "status": "wronganswer",
+                    "submission": 8,
+                    "time": null,
+                    "penalty": null
+                },
+                {
+                    "problem_id": "H",
+                    "problem_name": "Square Bounce",
+                    "status": null,
+                    "submission": 0,
+                    "time": null,
+                    "penalty": null
+                },
+                {
+                    "problem_id": "I",
+                    "problem_name": "Tetris Generation",
+                    "status": "accepted",
+                    "submission": 2,
+                    "time": 149,
+                    "penalty": 169
+                },
+                {
+                    "problem_id": "J",
+                    "problem_name": "Tournament Seeding",
+                    "status": null,
+                    "submission": 0,
+                    "time": null,
+                    "penalty": null
+                },
+                {
+                    "problem_id": "K",
+                    "problem_name": "Tree Hopping",
+                    "status": null,
+                    "submission": 0,
+                    "time": null,
+                    "penalty": null
+                },
+                {
+                    "problem_id": "L",
+                    "problem_name": "Who Goes There?",
+                    "status": "accepted",
+                    "submission": 2,
+                    "time": 29,
+                    "penalty": 49
+                }
+            ]
+        },
+        {
+            "contestant_id": "11",
+            "contestant_name": "Crimson Team 3",
+            "solve": 5,
+            "penalty": 582,
+            "judge": [
+                {
+                    "problem_id": "A",
+                    "problem_name": "Average Character",
+                    "status": "accepted",
+                    "submission": 1,
+                    "time": 9,
+                    "penalty": 9
+                },
+                {
+                    "problem_id": "B",
+                    "problem_name": "Black and White",
+                    "status": null,
+                    "submission": 0,
+                    "time": null,
+                    "penalty": null
+                },
+                {
+                    "problem_id": "C",
+                    "problem_name": "Diagonals",
+                    "status": null,
+                    "submission": 0,
+                    "time": null,
+                    "penalty": null
+                },
+                {
+                    "problem_id": "D",
+                    "problem_name": "Dorm Room Divide",
+                    "status": null,
+                    "submission": 0,
+                    "time": null,
+                    "penalty": null
+                },
+                {
+                    "problem_id": "E",
+                    "problem_name": "Double Password",
+                    "status": "accepted",
+                    "submission": 1,
+                    "time": 73,
+                    "penalty": 73
+                },
+                {
+                    "problem_id": "F",
+                    "problem_name": "Overdraft",
+                    "status": "accepted",
+                    "submission": 1,
+                    "time": 21,
+                    "penalty": 21
+                },
+                {
+                    "problem_id": "G",
+                    "problem_name": "Rise and Fall",
+                    "status": "accepted",
+                    "submission": 6,
+                    "time": 242,
+                    "penalty": 342
+                },
+                {
+                    "problem_id": "H",
+                    "problem_name": "Square Bounce",
+                    "status": null,
+                    "submission": 0,
+                    "time": null,
+                    "penalty": null
+                },
+                {
+                    "problem_id": "I",
+                    "problem_name": "Tetris Generation",
+                    "status": "wronganswer",
+                    "submission": 5,
+                    "time": null,
+                    "penalty": null
+                },
+                {
+                    "problem_id": "J",
+                    "problem_name": "Tournament Seeding",
+                    "status": null,
+                    "submission": 0,
+                    "time": null,
+                    "penalty": null
+                },
+                {
+                    "problem_id": "K",
+                    "problem_name": "Tree Hopping",
+                    "status": "wronganswer",
+                    "submission": 3,
+                    "time": null,
+                    "penalty": null
+                },
+                {
+                    "problem_id": "L",
+                    "problem_name": "Who Goes There?",
+                    "status": "accepted",
+                    "submission": 2,
+                    "time": 117,
+                    "penalty": 137
+                }
+            ]
+        },
+        {
+            "contestant_id": "12",
+            "contestant_name": "Lander 2",
+            "solve": 5,
+            "penalty": 660,
+            "judge": [
+                {
+                    "problem_id": "A",
+                    "problem_name": "Average Character",
+                    "status": "accepted",
+                    "submission": 1,
+                    "time": 30,
+                    "penalty": 30
+                },
+                {
+                    "problem_id": "B",
+                    "problem_name": "Black and White",
+                    "status": null,
+                    "submission": 0,
+                    "time": null,
+                    "penalty": null
+                },
+                {
+                    "problem_id": "C",
+                    "problem_name": "Diagonals",
+                    "status": null,
+                    "submission": 0,
+                    "time": null,
+                    "penalty": null
+                },
+                {
+                    "problem_id": "D",
+                    "problem_name": "Dorm Room Divide",
+                    "status": null,
+                    "submission": 0,
+                    "time": null,
+                    "penalty": null
+                },
+                {
+                    "problem_id": "E",
+                    "problem_name": "Double Password",
+                    "status": "accepted",
+                    "submission": 1,
+                    "time": 82,
+                    "penalty": 82
+                },
+                {
+                    "problem_id": "F",
+                    "problem_name": "Overdraft",
+                    "status": "accepted",
+                    "submission": 1,
+                    "time": 40,
+                    "penalty": 40
+                },
+                {
+                    "problem_id": "G",
+                    "problem_name": "Rise and Fall",
+                    "status": "accepted",
+                    "submission": 3,
+                    "time": 296,
+                    "penalty": 336
+                },
+                {
+                    "problem_id": "H",
+                    "problem_name": "Square Bounce",
+                    "status": null,
+                    "submission": 0,
+                    "time": null,
+                    "penalty": null
+                },
+                {
+                    "problem_id": "I",
+                    "problem_name": "Tetris Generation",
+                    "status": null,
+                    "submission": 0,
+                    "time": null,
+                    "penalty": null
+                },
+                {
+                    "problem_id": "J",
+                    "problem_name": "Tournament Seeding",
+                    "status": null,
+                    "submission": 0,
+                    "time": null,
+                    "penalty": null
+                },
+                {
+                    "problem_id": "K",
+                    "problem_name": "Tree Hopping",
+                    "status": null,
+                    "submission": 0,
+                    "time": null,
+                    "penalty": null
+                },
+                {
+                    "problem_id": "L",
+                    "problem_name": "Who Goes There?",
+                    "status": "accepted",
+                    "submission": 2,
+                    "time": 152,
+                    "penalty": 172
+                }
+            ]
+        },
+        {
+            "contestant_id": "13",
+            "contestant_name": "cofcA",
+            "solve": 5,
+            "penalty": 740,
+            "judge": [
+                {
+                    "problem_id": "A",
+                    "problem_name": "Average Character",
+                    "status": "accepted",
+                    "submission": 1,
+                    "time": 62,
+                    "penalty": 62
+                },
+                {
+                    "problem_id": "B",
+                    "problem_name": "Black and White",
+                    "status": null,
+                    "submission": 0,
+                    "time": null,
+                    "penalty": null
+                },
+                {
+                    "problem_id": "C",
+                    "problem_name": "Diagonals",
+                    "status": null,
+                    "submission": 0,
+                    "time": null,
+                    "penalty": null
+                },
+                {
+                    "problem_id": "D",
+                    "problem_name": "Dorm Room Divide",
+                    "status": null,
+                    "submission": 0,
+                    "time": null,
+                    "penalty": null
+                },
+                {
+                    "problem_id": "E",
+                    "problem_name": "Double Password",
+                    "status": "accepted",
+                    "submission": 1,
+                    "time": 74,
+                    "penalty": 74
+                },
+                {
+                    "problem_id": "F",
+                    "problem_name": "Overdraft",
+                    "status": "accepted",
+                    "submission": 2,
+                    "time": 89,
+                    "penalty": 109
+                },
+                {
+                    "problem_id": "G",
+                    "problem_name": "Rise and Fall",
+                    "status": "accepted",
+                    "submission": 3,
+                    "time": 254,
+                    "penalty": 294
+                },
+                {
+                    "problem_id": "H",
+                    "problem_name": "Square Bounce",
+                    "status": null,
+                    "submission": 0,
+                    "time": null,
+                    "penalty": null
+                },
+                {
+                    "problem_id": "I",
+                    "problem_name": "Tetris Generation",
+                    "status": null,
+                    "submission": 0,
+                    "time": null,
+                    "penalty": null
+                },
+                {
+                    "problem_id": "J",
+                    "problem_name": "Tournament Seeding",
+                    "status": null,
+                    "submission": 0,
+                    "time": null,
+                    "penalty": null
+                },
+                {
+                    "problem_id": "K",
+                    "problem_name": "Tree Hopping",
+                    "status": null,
+                    "submission": 0,
+                    "time": null,
+                    "penalty": null
+                },
+                {
+                    "problem_id": "L",
+                    "problem_name": "Who Goes There?",
+                    "status": "accepted",
+                    "submission": 3,
+                    "time": 161,
+                    "penalty": 201
+                }
+            ]
+        },
+        {
+            "contestant_id": "14",
+            "contestant_name": "WoCoders",
+            "solve": 5,
+            "penalty": 1025,
+            "judge": [
+                {
+                    "problem_id": "A",
+                    "problem_name": "Average Character",
+                    "status": "accepted",
+                    "submission": 5,
+                    "time": 94,
+                    "penalty": 174
+                },
+                {
+                    "problem_id": "B",
+                    "problem_name": "Black and White",
+                    "status": null,
+                    "submission": 0,
+                    "time": null,
+                    "penalty": null
+                },
+                {
+                    "problem_id": "C",
+                    "problem_name": "Diagonals",
+                    "status": null,
+                    "submission": 0,
+                    "time": null,
+                    "penalty": null
+                },
+                {
+                    "problem_id": "D",
+                    "problem_name": "Dorm Room Divide",
+                    "status": null,
+                    "submission": 0,
+                    "time": null,
+                    "penalty": null
+                },
+                {
+                    "problem_id": "E",
+                    "problem_name": "Double Password",
+                    "status": "accepted",
+                    "submission": 2,
+                    "time": 114,
+                    "penalty": 134
+                },
+                {
+                    "problem_id": "F",
+                    "problem_name": "Overdraft",
+                    "status": "accepted",
+                    "submission": 2,
+                    "time": 75,
+                    "penalty": 95
+                },
+                {
+                    "problem_id": "G",
+                    "problem_name": "Rise and Fall",
+                    "status": "accepted",
+                    "submission": 2,
+                    "time": 221,
+                    "penalty": 241
+                },
+                {
+                    "problem_id": "H",
+                    "problem_name": "Square Bounce",
+                    "status": null,
+                    "submission": 0,
+                    "time": null,
+                    "penalty": null
+                },
+                {
+                    "problem_id": "I",
+                    "problem_name": "Tetris Generation",
+                    "status": null,
+                    "submission": 0,
+                    "time": null,
+                    "penalty": null
+                },
+                {
+                    "problem_id": "J",
+                    "problem_name": "Tournament Seeding",
+                    "status": "wronganswer",
+                    "submission": 5,
+                    "time": null,
+                    "penalty": null
+                },
+                {
+                    "problem_id": "K",
+                    "problem_name": "Tree Hopping",
+                    "status": null,
+                    "submission": 0,
+                    "time": null,
+                    "penalty": null
+                },
+                {
+                    "problem_id": "L",
+                    "problem_name": "Who Goes There?",
+                    "status": "accepted",
+                    "submission": 6,
+                    "time": 281,
+                    "penalty": 381
+                }
+            ]
+        },
+        {
+            "contestant_id": "15",
+            "contestant_name": "astro_coders",
+            "solve": 5,
+            "penalty": 1062,
+            "judge": [
+                {
+                    "problem_id": "A",
+                    "problem_name": "Average Character",
+                    "status": "accepted",
+                    "submission": 5,
+                    "time": 131,
+                    "penalty": 211
+                },
+                {
+                    "problem_id": "B",
+                    "problem_name": "Black and White",
+                    "status": null,
+                    "submission": 0,
+                    "time": null,
+                    "penalty": null
+                },
+                {
+                    "problem_id": "C",
+                    "problem_name": "Diagonals",
+                    "status": null,
+                    "submission": 0,
+                    "time": null,
+                    "penalty": null
+                },
+                {
+                    "problem_id": "D",
+                    "problem_name": "Dorm Room Divide",
+                    "status": null,
+                    "submission": 0,
+                    "time": null,
+                    "penalty": null
+                },
+                {
+                    "problem_id": "E",
+                    "problem_name": "Double Password",
+                    "status": "accepted",
+                    "submission": 1,
+                    "time": 43,
+                    "penalty": 43
+                },
+                {
+                    "problem_id": "F",
+                    "problem_name": "Overdraft",
+                    "status": "accepted",
+                    "submission": 5,
+                    "time": 120,
+                    "penalty": 200
+                },
+                {
+                    "problem_id": "G",
+                    "problem_name": "Rise and Fall",
+                    "status": "accepted",
+                    "submission": 5,
+                    "time": 285,
+                    "penalty": 365
+                },
+                {
+                    "problem_id": "H",
+                    "problem_name": "Square Bounce",
+                    "status": null,
+                    "submission": 0,
+                    "time": null,
+                    "penalty": null
+                },
+                {
+                    "problem_id": "I",
+                    "problem_name": "Tetris Generation",
+                    "status": null,
+                    "submission": 0,
+                    "time": null,
+                    "penalty": null
+                },
+                {
+                    "problem_id": "J",
+                    "problem_name": "Tournament Seeding",
+                    "status": null,
+                    "submission": 0,
+                    "time": null,
+                    "penalty": null
+                },
+                {
+                    "problem_id": "K",
+                    "problem_name": "Tree Hopping",
+                    "status": null,
+                    "submission": 0,
+                    "time": null,
+                    "penalty": null
+                },
+                {
+                    "problem_id": "L",
+                    "problem_name": "Who Goes There?",
+                    "status": "accepted",
+                    "submission": 3,
+                    "time": 203,
+                    "penalty": 243
+                }
+            ]
+        },
+        {
+            "contestant_id": "16",
+            "contestant_name": "First String",
+            "solve": 4,
+            "penalty": 185,
+            "judge": [
+                {
+                    "problem_id": "A",
+                    "problem_name": "Average Character",
+                    "status": "accepted",
+                    "submission": 1,
+                    "time": 41,
+                    "penalty": 41
+                },
+                {
+                    "problem_id": "B",
+                    "problem_name": "Black and White",
+                    "status": null,
+                    "submission": 0,
+                    "time": null,
+                    "penalty": null
+                },
+                {
+                    "problem_id": "C",
+                    "problem_name": "Diagonals",
+                    "status": null,
+                    "submission": 0,
+                    "time": null,
+                    "penalty": null
+                },
+                {
+                    "problem_id": "D",
+                    "problem_name": "Dorm Room Divide",
+                    "status": null,
+                    "submission": 0,
+                    "time": null,
+                    "penalty": null
+                },
+                {
+                    "problem_id": "E",
+                    "problem_name": "Double Password",
+                    "status": "accepted",
+                    "submission": 1,
+                    "time": 54,
+                    "penalty": 54
+                },
+                {
+                    "problem_id": "F",
+                    "problem_name": "Overdraft",
+                    "status": "accepted",
+                    "submission": 1,
+                    "time": 15,
+                    "penalty": 15
+                },
+                {
+                    "problem_id": "G",
+                    "problem_name": "Rise and Fall",
+                    "status": "wronganswer",
+                    "submission": 2,
+                    "time": null,
+                    "penalty": null
+                },
+                {
+                    "problem_id": "H",
+                    "problem_name": "Square Bounce",
+                    "status": null,
+                    "submission": 0,
+                    "time": null,
+                    "penalty": null
+                },
+                {
+                    "problem_id": "I",
+                    "problem_name": "Tetris Generation",
+                    "status": "wronganswer",
+                    "submission": 3,
+                    "time": null,
+                    "penalty": null
+                },
+                {
+                    "problem_id": "J",
+                    "problem_name": "Tournament Seeding",
+                    "status": null,
+                    "submission": 0,
+                    "time": null,
+                    "penalty": null
+                },
+                {
+                    "problem_id": "K",
+                    "problem_name": "Tree Hopping",
+                    "status": null,
+                    "submission": 0,
+                    "time": null,
+                    "penalty": null
+                },
+                {
+                    "problem_id": "L",
+                    "problem_name": "Who Goes There?",
+                    "status": "accepted",
+                    "submission": 1,
+                    "time": 75,
+                    "penalty": 75
+                }
+            ]
+        },
+        {
+            "contestant_id": "17",
+            "contestant_name": "Halal Habibis",
+            "solve": 4,
+            "penalty": 337,
+            "judge": [
+                {
+                    "problem_id": "A",
+                    "problem_name": "Average Character",
+                    "status": "accepted",
+                    "submission": 3,
+                    "time": 36,
+                    "penalty": 76
+                },
+                {
+                    "problem_id": "B",
+                    "problem_name": "Black and White",
+                    "status": null,
+                    "submission": 0,
+                    "time": null,
+                    "penalty": null
+                },
+                {
+                    "problem_id": "C",
+                    "problem_name": "Diagonals",
+                    "status": null,
+                    "submission": 0,
+                    "time": null,
+                    "penalty": null
+                },
+                {
+                    "problem_id": "D",
+                    "problem_name": "Dorm Room Divide",
+                    "status": null,
+                    "submission": 0,
+                    "time": null,
+                    "penalty": null
+                },
+                {
+                    "problem_id": "E",
+                    "problem_name": "Double Password",
+                    "status": "accepted",
+                    "submission": 1,
+                    "time": 69,
+                    "penalty": 69
+                },
+                {
+                    "problem_id": "F",
+                    "problem_name": "Overdraft",
+                    "status": "accepted",
+                    "submission": 1,
+                    "time": 78,
+                    "penalty": 78
+                },
+                {
+                    "problem_id": "G",
+                    "problem_name": "Rise and Fall",
+                    "status": "wronganswer",
+                    "submission": 2,
+                    "time": null,
+                    "penalty": null
+                },
+                {
+                    "problem_id": "H",
+                    "problem_name": "Square Bounce",
+                    "status": null,
+                    "submission": 0,
+                    "time": null,
+                    "penalty": null
+                },
+                {
+                    "problem_id": "I",
+                    "problem_name": "Tetris Generation",
+                    "status": null,
+                    "submission": 0,
+                    "time": null,
+                    "penalty": null
+                },
+                {
+                    "problem_id": "J",
+                    "problem_name": "Tournament Seeding",
+                    "status": "wronganswer",
+                    "submission": 1,
+                    "time": null,
+                    "penalty": null
+                },
+                {
+                    "problem_id": "K",
+                    "problem_name": "Tree Hopping",
+                    "status": null,
+                    "submission": 0,
+                    "time": null,
+                    "penalty": null
+                },
+                {
+                    "problem_id": "L",
+                    "problem_name": "Who Goes There?",
+                    "status": "accepted",
+                    "submission": 1,
+                    "time": 114,
+                    "penalty": 114
+                }
+            ]
+        },
+        {
+            "contestant_id": "18",
+            "contestant_name": "Pythonistas@USF",
+            "solve": 4,
+            "penalty": 361,
+            "judge": [
+                {
+                    "problem_id": "A",
+                    "problem_name": "Average Character",
+                    "status": "accepted",
+                    "submission": 1,
+                    "time": 29,
+                    "penalty": 29
+                },
+                {
+                    "problem_id": "B",
+                    "problem_name": "Black and White",
+                    "status": null,
+                    "submission": 0,
+                    "time": null,
+                    "penalty": null
+                },
+                {
+                    "problem_id": "C",
+                    "problem_name": "Diagonals",
+                    "status": null,
+                    "submission": 0,
+                    "time": null,
+                    "penalty": null
+                },
+                {
+                    "problem_id": "D",
+                    "problem_name": "Dorm Room Divide",
+                    "status": null,
+                    "submission": 0,
+                    "time": null,
+                    "penalty": null
+                },
+                {
+                    "problem_id": "E",
+                    "problem_name": "Double Password",
+                    "status": "accepted",
+                    "submission": 1,
+                    "time": 38,
+                    "penalty": 38
+                },
+                {
+                    "problem_id": "F",
+                    "problem_name": "Overdraft",
+                    "status": "accepted",
+                    "submission": 1,
+                    "time": 42,
+                    "penalty": 42
+                },
+                {
+                    "problem_id": "G",
+                    "problem_name": "Rise and Fall",
+                    "status": "accepted",
+                    "submission": 2,
+                    "time": 232,
+                    "penalty": 252
+                },
+                {
+                    "problem_id": "H",
+                    "problem_name": "Square Bounce",
+                    "status": null,
+                    "submission": 0,
+                    "time": null,
+                    "penalty": null
+                },
+                {
+                    "problem_id": "I",
+                    "problem_name": "Tetris Generation",
+                    "status": null,
+                    "submission": 0,
+                    "time": null,
+                    "penalty": null
+                },
+                {
+                    "problem_id": "J",
+                    "problem_name": "Tournament Seeding",
+                    "status": null,
+                    "submission": 0,
+                    "time": null,
+                    "penalty": null
+                },
+                {
+                    "problem_id": "K",
+                    "problem_name": "Tree Hopping",
+                    "status": null,
+                    "submission": 0,
+                    "time": null,
+                    "penalty": null
+                },
+                {
+                    "problem_id": "L",
+                    "problem_name": "Who Goes There?",
+                    "status": "wronganswer",
+                    "submission": 2,
+                    "time": null,
+                    "penalty": null
+                }
+            ]
+        },
+        {
+            "contestant_id": "19",
+            "contestant_name": "CofcB",
+            "solve": 4,
+            "penalty": 411,
+            "judge": [
+                {
+                    "problem_id": "A",
+                    "problem_name": "Average Character",
+                    "status": "accepted",
+                    "submission": 1,
+                    "time": 7,
+                    "penalty": 7
+                },
+                {
+                    "problem_id": "B",
+                    "problem_name": "Black and White",
+                    "status": null,
+                    "submission": 0,
+                    "time": null,
+                    "penalty": null
+                },
+                {
+                    "problem_id": "C",
+                    "problem_name": "Diagonals",
+                    "status": null,
+                    "submission": 0,
+                    "time": null,
+                    "penalty": null
+                },
+                {
+                    "problem_id": "D",
+                    "problem_name": "Dorm Room Divide",
+                    "status": null,
+                    "submission": 0,
+                    "time": null,
+                    "penalty": null
+                },
+                {
+                    "problem_id": "E",
+                    "problem_name": "Double Password",
+                    "status": "accepted",
+                    "submission": 1,
+                    "time": 105,
+                    "penalty": 105
+                },
+                {
+                    "problem_id": "F",
+                    "problem_name": "Overdraft",
+                    "status": "accepted",
+                    "submission": 1,
+                    "time": 40,
+                    "penalty": 40
+                },
+                {
+                    "problem_id": "G",
+                    "problem_name": "Rise and Fall",
+                    "status": "wronganswer",
+                    "submission": 2,
+                    "time": null,
+                    "penalty": null
+                },
+                {
+                    "problem_id": "H",
+                    "problem_name": "Square Bounce",
+                    "status": null,
+                    "submission": 0,
+                    "time": null,
+                    "penalty": null
+                },
+                {
+                    "problem_id": "I",
+                    "problem_name": "Tetris Generation",
+                    "status": "wronganswer",
+                    "submission": 2,
+                    "time": null,
+                    "penalty": null
+                },
+                {
+                    "problem_id": "J",
+                    "problem_name": "Tournament Seeding",
+                    "status": null,
+                    "submission": 0,
+                    "time": null,
+                    "penalty": null
+                },
+                {
+                    "problem_id": "K",
+                    "problem_name": "Tree Hopping",
+                    "status": null,
+                    "submission": 0,
+                    "time": null,
+                    "penalty": null
+                },
+                {
+                    "problem_id": "L",
+                    "problem_name": "Who Goes There?",
+                    "status": "accepted",
+                    "submission": 5,
+                    "time": 179,
+                    "penalty": 259
+                }
+            ]
+        },
+        {
+            "contestant_id": "20",
+            "contestant_name": "goto USF;",
+            "solve": 4,
+            "penalty": 428,
+            "judge": [
+                {
+                    "problem_id": "A",
+                    "problem_name": "Average Character",
+                    "status": "accepted",
+                    "submission": 1,
+                    "time": 16,
+                    "penalty": 16
+                },
+                {
+                    "problem_id": "B",
+                    "problem_name": "Black and White",
+                    "status": null,
+                    "submission": 0,
+                    "time": null,
+                    "penalty": null
+                },
+                {
+                    "problem_id": "C",
+                    "problem_name": "Diagonals",
+                    "status": null,
+                    "submission": 0,
+                    "time": null,
+                    "penalty": null
+                },
+                {
+                    "problem_id": "D",
+                    "problem_name": "Dorm Room Divide",
+                    "status": "wronganswer",
+                    "submission": 3,
+                    "time": null,
+                    "penalty": null
+                },
+                {
+                    "problem_id": "E",
+                    "problem_name": "Double Password",
+                    "status": "accepted",
+                    "submission": 1,
+                    "time": 58,
+                    "penalty": 58
+                },
+                {
+                    "problem_id": "F",
+                    "problem_name": "Overdraft",
+                    "status": "accepted",
+                    "submission": 1,
+                    "time": 31,
+                    "penalty": 31
+                },
+                {
+                    "problem_id": "G",
+                    "problem_name": "Rise and Fall",
+                    "status": "accepted",
+                    "submission": 3,
+                    "time": 283,
+                    "penalty": 323
+                },
+                {
+                    "problem_id": "H",
+                    "problem_name": "Square Bounce",
+                    "status": null,
+                    "submission": 0,
+                    "time": null,
+                    "penalty": null
+                },
+                {
+                    "problem_id": "I",
+                    "problem_name": "Tetris Generation",
+                    "status": "wronganswer",
+                    "submission": 1,
+                    "time": null,
+                    "penalty": null
+                },
+                {
+                    "problem_id": "J",
+                    "problem_name": "Tournament Seeding",
+                    "status": null,
+                    "submission": 0,
+                    "time": null,
+                    "penalty": null
+                },
+                {
+                    "problem_id": "K",
+                    "problem_name": "Tree Hopping",
+                    "status": null,
+                    "submission": 0,
+                    "time": null,
+                    "penalty": null
+                },
+                {
+                    "problem_id": "L",
+                    "problem_name": "Who Goes There?",
+                    "status": "wronganswer",
+                    "submission": 9,
+                    "time": null,
+                    "penalty": null
+                }
+            ]
+        },
+        {
+            "contestant_id": "21",
+            "contestant_name": "UWF Team #2",
+            "solve": 4,
+            "penalty": 654,
+            "judge": [
+                {
+                    "problem_id": "A",
+                    "problem_name": "Average Character",
+                    "status": "accepted",
+                    "submission": 1,
+                    "time": 24,
+                    "penalty": 24
+                },
+                {
+                    "problem_id": "B",
+                    "problem_name": "Black and White",
+                    "status": null,
+                    "submission": 0,
+                    "time": null,
+                    "penalty": null
+                },
+                {
+                    "problem_id": "C",
+                    "problem_name": "Diagonals",
+                    "status": null,
+                    "submission": 0,
+                    "time": null,
+                    "penalty": null
+                },
+                {
+                    "problem_id": "D",
+                    "problem_name": "Dorm Room Divide",
+                    "status": null,
+                    "submission": 0,
+                    "time": null,
+                    "penalty": null
+                },
+                {
+                    "problem_id": "E",
+                    "problem_name": "Double Password",
+                    "status": "accepted",
+                    "submission": 2,
+                    "time": 209,
+                    "penalty": 229
+                },
+                {
+                    "problem_id": "F",
+                    "problem_name": "Overdraft",
+                    "status": "accepted",
+                    "submission": 1,
+                    "time": 46,
+                    "penalty": 46
+                },
+                {
+                    "problem_id": "G",
+                    "problem_name": "Rise and Fall",
+                    "status": null,
+                    "submission": 0,
+                    "time": null,
+                    "penalty": null
+                },
+                {
+                    "problem_id": "H",
+                    "problem_name": "Square Bounce",
+                    "status": null,
+                    "submission": 0,
+                    "time": null,
+                    "penalty": null
+                },
+                {
+                    "problem_id": "I",
+                    "problem_name": "Tetris Generation",
+                    "status": null,
+                    "submission": 0,
+                    "time": null,
+                    "penalty": null
+                },
+                {
+                    "problem_id": "J",
+                    "problem_name": "Tournament Seeding",
+                    "status": null,
+                    "submission": 0,
+                    "time": null,
+                    "penalty": null
+                },
+                {
+                    "problem_id": "K",
+                    "problem_name": "Tree Hopping",
+                    "status": null,
+                    "submission": 0,
+                    "time": null,
+                    "penalty": null
+                },
+                {
+                    "problem_id": "L",
+                    "problem_name": "Who Goes There?",
+                    "status": "accepted",
+                    "submission": 5,
+                    "time": 275,
+                    "penalty": 355
+                }
+            ]
+        },
+        {
+            "contestant_id": "22",
+            "contestant_name": "UWF Team #4",
+            "solve": 3,
+            "penalty": 97,
+            "judge": [
+                {
+                    "problem_id": "A",
+                    "problem_name": "Average Character",
+                    "status": "accepted",
+                    "submission": 1,
+                    "time": 23,
+                    "penalty": 23
+                },
+                {
+                    "problem_id": "B",
+                    "problem_name": "Black and White",
+                    "status": null,
+                    "submission": 0,
+                    "time": null,
+                    "penalty": null
+                },
+                {
+                    "problem_id": "C",
+                    "problem_name": "Diagonals",
+                    "status": null,
+                    "submission": 0,
+                    "time": null,
+                    "penalty": null
+                },
+                {
+                    "problem_id": "D",
+                    "problem_name": "Dorm Room Divide",
+                    "status": null,
+                    "submission": 0,
+                    "time": null,
+                    "penalty": null
+                },
+                {
+                    "problem_id": "E",
+                    "problem_name": "Double Password",
+                    "status": "accepted",
+                    "submission": 1,
+                    "time": 41,
+                    "penalty": 41
+                },
+                {
+                    "problem_id": "F",
+                    "problem_name": "Overdraft",
+                    "status": "accepted",
+                    "submission": 1,
+                    "time": 33,
+                    "penalty": 33
+                },
+                {
+                    "problem_id": "G",
+                    "problem_name": "Rise and Fall",
+                    "status": "wronganswer",
+                    "submission": 3,
+                    "time": null,
+                    "penalty": null
+                },
+                {
+                    "problem_id": "H",
+                    "problem_name": "Square Bounce",
+                    "status": null,
+                    "submission": 0,
+                    "time": null,
+                    "penalty": null
+                },
+                {
+                    "problem_id": "I",
+                    "problem_name": "Tetris Generation",
+                    "status": null,
+                    "submission": 0,
+                    "time": null,
+                    "penalty": null
+                },
+                {
+                    "problem_id": "J",
+                    "problem_name": "Tournament Seeding",
+                    "status": null,
+                    "submission": 0,
+                    "time": null,
+                    "penalty": null
+                },
+                {
+                    "problem_id": "K",
+                    "problem_name": "Tree Hopping",
+                    "status": null,
+                    "submission": 0,
+                    "time": null,
+                    "penalty": null
+                },
+                {
+                    "problem_id": "L",
+                    "problem_name": "Who Goes There?",
+                    "status": "wronganswer",
+                    "submission": 2,
+                    "time": null,
+                    "penalty": null
+                }
+            ]
+        },
+        {
+            "contestant_id": "23",
+            "contestant_name": "Lander 1",
+            "solve": 3,
+            "penalty": 100,
+            "judge": [
+                {
+                    "problem_id": "A",
+                    "problem_name": "Average Character",
+                    "status": "accepted",
+                    "submission": 1,
+                    "time": 9,
+                    "penalty": 9
+                },
+                {
+                    "problem_id": "B",
+                    "problem_name": "Black and White",
+                    "status": null,
+                    "submission": 0,
+                    "time": null,
+                    "penalty": null
+                },
+                {
+                    "problem_id": "C",
+                    "problem_name": "Diagonals",
+                    "status": null,
+                    "submission": 0,
+                    "time": null,
+                    "penalty": null
+                },
+                {
+                    "problem_id": "D",
+                    "problem_name": "Dorm Room Divide",
+                    "status": null,
+                    "submission": 0,
+                    "time": null,
+                    "penalty": null
+                },
+                {
+                    "problem_id": "E",
+                    "problem_name": "Double Password",
+                    "status": "accepted",
+                    "submission": 1,
+                    "time": 58,
+                    "penalty": 58
+                },
+                {
+                    "problem_id": "F",
+                    "problem_name": "Overdraft",
+                    "status": "accepted",
+                    "submission": 1,
+                    "time": 33,
+                    "penalty": 33
+                },
+                {
+                    "problem_id": "G",
+                    "problem_name": "Rise and Fall",
+                    "status": null,
+                    "submission": 0,
+                    "time": null,
+                    "penalty": null
+                },
+                {
+                    "problem_id": "H",
+                    "problem_name": "Square Bounce",
+                    "status": null,
+                    "submission": 0,
+                    "time": null,
+                    "penalty": null
+                },
+                {
+                    "problem_id": "I",
+                    "problem_name": "Tetris Generation",
+                    "status": "wronganswer",
+                    "submission": 5,
+                    "time": null,
+                    "penalty": null
+                },
+                {
+                    "problem_id": "J",
+                    "problem_name": "Tournament Seeding",
+                    "status": "wronganswer",
+                    "submission": 1,
+                    "time": null,
+                    "penalty": null
+                },
+                {
+                    "problem_id": "K",
+                    "problem_name": "Tree Hopping",
+                    "status": null,
+                    "submission": 0,
+                    "time": null,
+                    "penalty": null
+                },
+                {
+                    "problem_id": "L",
+                    "problem_name": "Who Goes There?",
+                    "status": "wronganswer",
+                    "submission": 9,
+                    "time": null,
+                    "penalty": null
+                }
+            ]
+        },
+        {
+            "contestant_id": "24",
+            "contestant_name": "CyberDogs",
+            "solve": 3,
+            "penalty": 106,
+            "judge": [
+                {
+                    "problem_id": "A",
+                    "problem_name": "Average Character",
+                    "status": "accepted",
+                    "submission": 1,
+                    "time": 14,
+                    "penalty": 14
+                },
+                {
+                    "problem_id": "B",
+                    "problem_name": "Black and White",
+                    "status": null,
+                    "submission": 0,
+                    "time": null,
+                    "penalty": null
+                },
+                {
+                    "problem_id": "C",
+                    "problem_name": "Diagonals",
+                    "status": null,
+                    "submission": 0,
+                    "time": null,
+                    "penalty": null
+                },
+                {
+                    "problem_id": "D",
+                    "problem_name": "Dorm Room Divide",
+                    "status": null,
+                    "submission": 0,
+                    "time": null,
+                    "penalty": null
+                },
+                {
+                    "problem_id": "E",
+                    "problem_name": "Double Password",
+                    "status": "accepted",
+                    "submission": 1,
+                    "time": 68,
+                    "penalty": 68
+                },
+                {
+                    "problem_id": "F",
+                    "problem_name": "Overdraft",
+                    "status": "accepted",
+                    "submission": 1,
+                    "time": 24,
+                    "penalty": 24
+                },
+                {
+                    "problem_id": "G",
+                    "problem_name": "Rise and Fall",
+                    "status": "wronganswer",
+                    "submission": 4,
+                    "time": null,
+                    "penalty": null
+                },
+                {
+                    "problem_id": "H",
+                    "problem_name": "Square Bounce",
+                    "status": null,
+                    "submission": 0,
+                    "time": null,
+                    "penalty": null
+                },
+                {
+                    "problem_id": "I",
+                    "problem_name": "Tetris Generation",
+                    "status": null,
+                    "submission": 0,
+                    "time": null,
+                    "penalty": null
+                },
+                {
+                    "problem_id": "J",
+                    "problem_name": "Tournament Seeding",
+                    "status": null,
+                    "submission": 0,
+                    "time": null,
+                    "penalty": null
+                },
+                {
+                    "problem_id": "K",
+                    "problem_name": "Tree Hopping",
+                    "status": null,
+                    "submission": 0,
+                    "time": null,
+                    "penalty": null
+                },
+                {
+                    "problem_id": "L",
+                    "problem_name": "Who Goes There?",
+                    "status": "wronganswer",
+                    "submission": 3,
+                    "time": null,
+                    "penalty": null
+                }
+            ]
+        },
+        {
+            "contestant_id": "25",
+            "contestant_name": "Terriers",
+            "solve": 3,
+            "penalty": 129,
+            "judge": [
+                {
+                    "problem_id": "A",
+                    "problem_name": "Average Character",
+                    "status": "accepted",
+                    "submission": 1,
+                    "time": 37,
+                    "penalty": 37
+                },
+                {
+                    "problem_id": "B",
+                    "problem_name": "Black and White",
+                    "status": null,
+                    "submission": 0,
+                    "time": null,
+                    "penalty": null
+                },
+                {
+                    "problem_id": "C",
+                    "problem_name": "Diagonals",
+                    "status": null,
+                    "submission": 0,
+                    "time": null,
+                    "penalty": null
+                },
+                {
+                    "problem_id": "D",
+                    "problem_name": "Dorm Room Divide",
+                    "status": null,
+                    "submission": 0,
+                    "time": null,
+                    "penalty": null
+                },
+                {
+                    "problem_id": "E",
+                    "problem_name": "Double Password",
+                    "status": "accepted",
+                    "submission": 1,
+                    "time": 48,
+                    "penalty": 48
+                },
+                {
+                    "problem_id": "F",
+                    "problem_name": "Overdraft",
+                    "status": "accepted",
+                    "submission": 1,
+                    "time": 44,
+                    "penalty": 44
+                },
+                {
+                    "problem_id": "G",
+                    "problem_name": "Rise and Fall",
+                    "status": "wronganswer",
+                    "submission": 6,
+                    "time": null,
+                    "penalty": null
+                },
+                {
+                    "problem_id": "H",
+                    "problem_name": "Square Bounce",
+                    "status": null,
+                    "submission": 0,
+                    "time": null,
+                    "penalty": null
+                },
+                {
+                    "problem_id": "I",
+                    "problem_name": "Tetris Generation",
+                    "status": "wronganswer",
+                    "submission": 1,
+                    "time": null,
+                    "penalty": null
+                },
+                {
+                    "problem_id": "J",
+                    "problem_name": "Tournament Seeding",
+                    "status": null,
+                    "submission": 0,
+                    "time": null,
+                    "penalty": null
+                },
+                {
+                    "problem_id": "K",
+                    "problem_name": "Tree Hopping",
+                    "status": null,
+                    "submission": 0,
+                    "time": null,
+                    "penalty": null
+                },
+                {
+                    "problem_id": "L",
+                    "problem_name": "Who Goes There?",
+                    "status": "wronganswer",
+                    "submission": 2,
+                    "time": null,
+                    "penalty": null
+                }
+            ]
+        },
+        {
+            "contestant_id": "26",
+            "contestant_name": "USF Bools",
+            "solve": 3,
+            "penalty": 139,
+            "judge": [
+                {
+                    "problem_id": "A",
+                    "problem_name": "Average Character",
+                    "status": "accepted",
+                    "submission": 1,
+                    "time": 15,
+                    "penalty": 15
+                },
+                {
+                    "problem_id": "B",
+                    "problem_name": "Black and White",
+                    "status": null,
+                    "submission": 0,
+                    "time": null,
+                    "penalty": null
+                },
+                {
+                    "problem_id": "C",
+                    "problem_name": "Diagonals",
+                    "status": null,
+                    "submission": 0,
+                    "time": null,
+                    "penalty": null
+                },
+                {
+                    "problem_id": "D",
+                    "problem_name": "Dorm Room Divide",
+                    "status": null,
+                    "submission": 0,
+                    "time": null,
+                    "penalty": null
+                },
+                {
+                    "problem_id": "E",
+                    "problem_name": "Double Password",
+                    "status": "accepted",
+                    "submission": 1,
+                    "time": 72,
+                    "penalty": 72
+                },
+                {
+                    "problem_id": "F",
+                    "problem_name": "Overdraft",
+                    "status": "accepted",
+                    "submission": 1,
+                    "time": 52,
+                    "penalty": 52
+                },
+                {
+                    "problem_id": "G",
+                    "problem_name": "Rise and Fall",
+                    "status": "wronganswer",
+                    "submission": 4,
+                    "time": null,
+                    "penalty": null
+                },
+                {
+                    "problem_id": "H",
+                    "problem_name": "Square Bounce",
+                    "status": null,
+                    "submission": 0,
+                    "time": null,
+                    "penalty": null
+                },
+                {
+                    "problem_id": "I",
+                    "problem_name": "Tetris Generation",
+                    "status": null,
+                    "submission": 0,
+                    "time": null,
+                    "penalty": null
+                },
+                {
+                    "problem_id": "J",
+                    "problem_name": "Tournament Seeding",
+                    "status": null,
+                    "submission": 0,
+                    "time": null,
+                    "penalty": null
+                },
+                {
+                    "problem_id": "K",
+                    "problem_name": "Tree Hopping",
+                    "status": null,
+                    "submission": 0,
+                    "time": null,
+                    "penalty": null
+                },
+                {
+                    "problem_id": "L",
+                    "problem_name": "Who Goes There?",
+                    "status": "wronganswer",
+                    "submission": 6,
+                    "time": null,
+                    "penalty": null
+                }
+            ]
+        },
+        {
+            "contestant_id": "27",
+            "contestant_name": "Uninitialized",
+            "solve": 3,
+            "penalty": 197,
+            "judge": [
+                {
+                    "problem_id": "A",
+                    "problem_name": "Average Character",
+                    "status": "accepted",
+                    "submission": 2,
+                    "time": 15,
+                    "penalty": 35
+                },
+                {
+                    "problem_id": "B",
+                    "problem_name": "Black and White",
+                    "status": null,
+                    "submission": 0,
+                    "time": null,
+                    "penalty": null
+                },
+                {
+                    "problem_id": "C",
+                    "problem_name": "Diagonals",
+                    "status": null,
+                    "submission": 0,
+                    "time": null,
+                    "penalty": null
+                },
+                {
+                    "problem_id": "D",
+                    "problem_name": "Dorm Room Divide",
+                    "status": "wronganswer",
+                    "submission": 1,
+                    "time": null,
+                    "penalty": null
+                },
+                {
+                    "problem_id": "E",
+                    "problem_name": "Double Password",
+                    "status": "accepted",
+                    "submission": 1,
+                    "time": 126,
+                    "penalty": 126
+                },
+                {
+                    "problem_id": "F",
+                    "problem_name": "Overdraft",
+                    "status": "accepted",
+                    "submission": 1,
+                    "time": 36,
+                    "penalty": 36
+                },
+                {
+                    "problem_id": "G",
+                    "problem_name": "Rise and Fall",
+                    "status": "wronganswer",
+                    "submission": 4,
+                    "time": null,
+                    "penalty": null
+                },
+                {
+                    "problem_id": "H",
+                    "problem_name": "Square Bounce",
+                    "status": null,
+                    "submission": 0,
+                    "time": null,
+                    "penalty": null
+                },
+                {
+                    "problem_id": "I",
+                    "problem_name": "Tetris Generation",
+                    "status": null,
+                    "submission": 0,
+                    "time": null,
+                    "penalty": null
+                },
+                {
+                    "problem_id": "J",
+                    "problem_name": "Tournament Seeding",
+                    "status": "wronganswer",
+                    "submission": 2,
+                    "time": null,
+                    "penalty": null
+                },
+                {
+                    "problem_id": "K",
+                    "problem_name": "Tree Hopping",
+                    "status": null,
+                    "submission": 0,
+                    "time": null,
+                    "penalty": null
+                },
+                {
+                    "problem_id": "L",
+                    "problem_name": "Who Goes There?",
+                    "status": "wronganswer",
+                    "submission": 4,
+                    "time": null,
+                    "penalty": null
+                }
+            ]
+        },
+        {
+            "contestant_id": "28",
+            "contestant_name": "USF Nulls",
+            "solve": 3,
+            "penalty": 237,
+            "judge": [
+                {
+                    "problem_id": "A",
+                    "problem_name": "Average Character",
+                    "status": "accepted",
+                    "submission": 1,
+                    "time": 29,
+                    "penalty": 29
+                },
+                {
+                    "problem_id": "B",
+                    "problem_name": "Black and White",
+                    "status": null,
+                    "submission": 0,
+                    "time": null,
+                    "penalty": null
+                },
+                {
+                    "problem_id": "C",
+                    "problem_name": "Diagonals",
+                    "status": null,
+                    "submission": 0,
+                    "time": null,
+                    "penalty": null
+                },
+                {
+                    "problem_id": "D",
+                    "problem_name": "Dorm Room Divide",
+                    "status": null,
+                    "submission": 0,
+                    "time": null,
+                    "penalty": null
+                },
+                {
+                    "problem_id": "E",
+                    "problem_name": "Double Password",
+                    "status": "accepted",
+                    "submission": 1,
+                    "time": 94,
+                    "penalty": 94
+                },
+                {
+                    "problem_id": "F",
+                    "problem_name": "Overdraft",
+                    "status": "accepted",
+                    "submission": 1,
+                    "time": 114,
+                    "penalty": 114
+                },
+                {
+                    "problem_id": "G",
+                    "problem_name": "Rise and Fall",
+                    "status": "wronganswer",
+                    "submission": 2,
+                    "time": null,
+                    "penalty": null
+                },
+                {
+                    "problem_id": "H",
+                    "problem_name": "Square Bounce",
+                    "status": null,
+                    "submission": 0,
+                    "time": null,
+                    "penalty": null
+                },
+                {
+                    "problem_id": "I",
+                    "problem_name": "Tetris Generation",
+                    "status": null,
+                    "submission": 0,
+                    "time": null,
+                    "penalty": null
+                },
+                {
+                    "problem_id": "J",
+                    "problem_name": "Tournament Seeding",
+                    "status": null,
+                    "submission": 0,
+                    "time": null,
+                    "penalty": null
+                },
+                {
+                    "problem_id": "K",
+                    "problem_name": "Tree Hopping",
+                    "status": null,
+                    "submission": 0,
+                    "time": null,
+                    "penalty": null
+                },
+                {
+                    "problem_id": "L",
+                    "problem_name": "Who Goes There?",
+                    "status": "wronganswer",
+                    "submission": 10,
+                    "time": null,
+                    "penalty": null
+                }
+            ]
+        },
+        {
+            "contestant_id": "29",
+            "contestant_name": "Mercer Binary Bears Team E",
+            "solve": 3,
+            "penalty": 239,
+            "judge": [
+                {
+                    "problem_id": "A",
+                    "problem_name": "Average Character",
+                    "status": "accepted",
+                    "submission": 1,
+                    "time": 10,
+                    "penalty": 10
+                },
+                {
+                    "problem_id": "B",
+                    "problem_name": "Black and White",
+                    "status": null,
+                    "submission": 0,
+                    "time": null,
+                    "penalty": null
+                },
+                {
+                    "problem_id": "C",
+                    "problem_name": "Diagonals",
+                    "status": null,
+                    "submission": 0,
+                    "time": null,
+                    "penalty": null
+                },
+                {
+                    "problem_id": "D",
+                    "problem_name": "Dorm Room Divide",
+                    "status": null,
+                    "submission": 0,
+                    "time": null,
+                    "penalty": null
+                },
+                {
+                    "problem_id": "E",
+                    "problem_name": "Double Password",
+                    "status": "accepted",
+                    "submission": 2,
+                    "time": 33,
+                    "penalty": 53
+                },
+                {
+                    "problem_id": "F",
+                    "problem_name": "Overdraft",
+                    "status": "accepted",
+                    "submission": 4,
+                    "time": 116,
+                    "penalty": 176
+                },
+                {
+                    "problem_id": "G",
+                    "problem_name": "Rise and Fall",
+                    "status": "wronganswer",
+                    "submission": 3,
+                    "time": null,
+                    "penalty": null
+                },
+                {
+                    "problem_id": "H",
+                    "problem_name": "Square Bounce",
+                    "status": null,
+                    "submission": 0,
+                    "time": null,
+                    "penalty": null
+                },
+                {
+                    "problem_id": "I",
+                    "problem_name": "Tetris Generation",
+                    "status": null,
+                    "submission": 0,
+                    "time": null,
+                    "penalty": null
+                },
+                {
+                    "problem_id": "J",
+                    "problem_name": "Tournament Seeding",
+                    "status": null,
+                    "submission": 0,
+                    "time": null,
+                    "penalty": null
+                },
+                {
+                    "problem_id": "K",
+                    "problem_name": "Tree Hopping",
+                    "status": null,
+                    "submission": 0,
+                    "time": null,
+                    "penalty": null
+                },
+                {
+                    "problem_id": "L",
+                    "problem_name": "Who Goes There?",
+                    "status": null,
+                    "submission": 0,
+                    "time": null,
+                    "penalty": null
+                }
+            ]
+        },
+        {
+            "contestant_id": "30",
+            "contestant_name": "Bulldog Bytes",
+            "solve": 3,
+            "penalty": 360,
+            "judge": [
+                {
+                    "problem_id": "A",
+                    "problem_name": "Average Character",
+                    "status": "accepted",
+                    "submission": 2,
+                    "time": 156,
+                    "penalty": 176
+                },
+                {
+                    "problem_id": "B",
+                    "problem_name": "Black and White",
+                    "status": null,
+                    "submission": 0,
+                    "time": null,
+                    "penalty": null
+                },
+                {
+                    "problem_id": "C",
+                    "problem_name": "Diagonals",
+                    "status": null,
+                    "submission": 0,
+                    "time": null,
+                    "penalty": null
+                },
+                {
+                    "problem_id": "D",
+                    "problem_name": "Dorm Room Divide",
+                    "status": null,
+                    "submission": 0,
+                    "time": null,
+                    "penalty": null
+                },
+                {
+                    "problem_id": "E",
+                    "problem_name": "Double Password",
+                    "status": "accepted",
+                    "submission": 1,
+                    "time": 161,
+                    "penalty": 161
+                },
+                {
+                    "problem_id": "F",
+                    "problem_name": "Overdraft",
+                    "status": "accepted",
+                    "submission": 1,
+                    "time": 23,
+                    "penalty": 23
+                },
+                {
+                    "problem_id": "G",
+                    "problem_name": "Rise and Fall",
+                    "status": "wronganswer",
+                    "submission": 9,
+                    "time": null,
+                    "penalty": null
+                },
+                {
+                    "problem_id": "H",
+                    "problem_name": "Square Bounce",
+                    "status": null,
+                    "submission": 0,
+                    "time": null,
+                    "penalty": null
+                },
+                {
+                    "problem_id": "I",
+                    "problem_name": "Tetris Generation",
+                    "status": "wronganswer",
+                    "submission": 2,
+                    "time": null,
+                    "penalty": null
+                },
+                {
+                    "problem_id": "J",
+                    "problem_name": "Tournament Seeding",
+                    "status": "wronganswer",
+                    "submission": 1,
+                    "time": null,
+                    "penalty": null
+                },
+                {
+                    "problem_id": "K",
+                    "problem_name": "Tree Hopping",
+                    "status": null,
+                    "submission": 0,
+                    "time": null,
+                    "penalty": null
+                },
+                {
+                    "problem_id": "L",
+                    "problem_name": "Who Goes There?",
+                    "status": "wronganswer",
+                    "submission": 3,
+                    "time": null,
+                    "penalty": null
+                }
+            ]
+        },
+        {
+            "contestant_id": "31",
+            "contestant_name": "USF Coders",
+            "solve": 3,
+            "penalty": 444,
+            "judge": [
+                {
+                    "problem_id": "A",
+                    "problem_name": "Average Character",
+                    "status": "accepted",
+                    "submission": 2,
+                    "time": 37,
+                    "penalty": 57
+                },
+                {
+                    "problem_id": "B",
+                    "problem_name": "Black and White",
+                    "status": null,
+                    "submission": 0,
+                    "time": null,
+                    "penalty": null
+                },
+                {
+                    "problem_id": "C",
+                    "problem_name": "Diagonals",
+                    "status": null,
+                    "submission": 0,
+                    "time": null,
+                    "penalty": null
+                },
+                {
+                    "problem_id": "D",
+                    "problem_name": "Dorm Room Divide",
+                    "status": null,
+                    "submission": 0,
+                    "time": null,
+                    "penalty": null
+                },
+                {
+                    "problem_id": "E",
+                    "problem_name": "Double Password",
+                    "status": "accepted",
+                    "submission": 1,
+                    "time": 59,
+                    "penalty": 59
+                },
+                {
+                    "problem_id": "F",
+                    "problem_name": "Overdraft",
+                    "status": "accepted",
+                    "submission": 4,
+                    "time": 268,
+                    "penalty": 328
+                },
+                {
+                    "problem_id": "G",
+                    "problem_name": "Rise and Fall",
+                    "status": "wronganswer",
+                    "submission": 3,
+                    "time": null,
+                    "penalty": null
+                },
+                {
+                    "problem_id": "H",
+                    "problem_name": "Square Bounce",
+                    "status": null,
+                    "submission": 0,
+                    "time": null,
+                    "penalty": null
+                },
+                {
+                    "problem_id": "I",
+                    "problem_name": "Tetris Generation",
+                    "status": null,
+                    "submission": 0,
+                    "time": null,
+                    "penalty": null
+                },
+                {
+                    "problem_id": "J",
+                    "problem_name": "Tournament Seeding",
+                    "status": null,
+                    "submission": 0,
+                    "time": null,
+                    "penalty": null
+                },
+                {
+                    "problem_id": "K",
+                    "problem_name": "Tree Hopping",
+                    "status": null,
+                    "submission": 0,
+                    "time": null,
+                    "penalty": null
+                },
+                {
+                    "problem_id": "L",
+                    "problem_name": "Who Goes There?",
+                    "status": "wronganswer",
+                    "submission": 3,
+                    "time": null,
+                    "penalty": null
+                }
+            ]
+        },
+        {
+            "contestant_id": "32",
+            "contestant_name": "60 + 1 Byte Dawgs",
+            "solve": 3,
+            "penalty": 582,
+            "judge": [
+                {
+                    "problem_id": "A",
+                    "problem_name": "Average Character",
+                    "status": "accepted",
+                    "submission": 1,
+                    "time": 15,
+                    "penalty": 15
+                },
+                {
+                    "problem_id": "B",
+                    "problem_name": "Black and White",
+                    "status": null,
+                    "submission": 0,
+                    "time": null,
+                    "penalty": null
+                },
+                {
+                    "problem_id": "C",
+                    "problem_name": "Diagonals",
+                    "status": null,
+                    "submission": 0,
+                    "time": null,
+                    "penalty": null
+                },
+                {
+                    "problem_id": "D",
+                    "problem_name": "Dorm Room Divide",
+                    "status": null,
+                    "submission": 0,
+                    "time": null,
+                    "penalty": null
+                },
+                {
+                    "problem_id": "E",
+                    "problem_name": "Double Password",
+                    "status": "accepted",
+                    "submission": 5,
+                    "time": 193,
+                    "penalty": 273
+                },
+                {
+                    "problem_id": "F",
+                    "problem_name": "Overdraft",
+                    "status": "accepted",
+                    "submission": 4,
+                    "time": 234,
+                    "penalty": 294
+                },
+                {
+                    "problem_id": "G",
+                    "problem_name": "Rise and Fall",
+                    "status": null,
+                    "submission": 0,
+                    "time": null,
+                    "penalty": null
+                },
+                {
+                    "problem_id": "H",
+                    "problem_name": "Square Bounce",
+                    "status": null,
+                    "submission": 0,
+                    "time": null,
+                    "penalty": null
+                },
+                {
+                    "problem_id": "I",
+                    "problem_name": "Tetris Generation",
+                    "status": "wronganswer",
+                    "submission": 1,
+                    "time": null,
+                    "penalty": null
+                },
+                {
+                    "problem_id": "J",
+                    "problem_name": "Tournament Seeding",
+                    "status": null,
+                    "submission": 0,
+                    "time": null,
+                    "penalty": null
+                },
+                {
+                    "problem_id": "K",
+                    "problem_name": "Tree Hopping",
+                    "status": null,
+                    "submission": 0,
+                    "time": null,
+                    "penalty": null
+                },
+                {
+                    "problem_id": "L",
+                    "problem_name": "Who Goes There?",
+                    "status": "wronganswer",
+                    "submission": 13,
+                    "time": null,
+                    "penalty": null
+                }
+            ]
+        },
+        {
+            "contestant_id": "33",
+            "contestant_name": "Lander 3",
+            "solve": 1,
+            "penalty": 121,
+            "judge": [
+                {
+                    "problem_id": "A",
+                    "problem_name": "Average Character",
+                    "status": null,
+                    "submission": 0,
+                    "time": null,
+                    "penalty": null
+                },
+                {
+                    "problem_id": "B",
+                    "problem_name": "Black and White",
+                    "status": null,
+                    "submission": 0,
+                    "time": null,
+                    "penalty": null
+                },
+                {
+                    "problem_id": "C",
+                    "problem_name": "Diagonals",
+                    "status": null,
+                    "submission": 0,
+                    "time": null,
+                    "penalty": null
+                },
+                {
+                    "problem_id": "D",
+                    "problem_name": "Dorm Room Divide",
+                    "status": null,
+                    "submission": 0,
+                    "time": null,
+                    "penalty": null
+                },
+                {
+                    "problem_id": "E",
+                    "problem_name": "Double Password",
+                    "status": "accepted",
+                    "submission": 3,
+                    "time": 81,
+                    "penalty": 121
+                },
+                {
+                    "problem_id": "F",
+                    "problem_name": "Overdraft",
+                    "status": "wronganswer",
+                    "submission": 18,
+                    "time": null,
+                    "penalty": null
+                },
+                {
+                    "problem_id": "G",
+                    "problem_name": "Rise and Fall",
+                    "status": null,
+                    "submission": 0,
+                    "time": null,
+                    "penalty": null
+                },
+                {
+                    "problem_id": "H",
+                    "problem_name": "Square Bounce",
+                    "status": null,
+                    "submission": 0,
+                    "time": null,
+                    "penalty": null
+                },
+                {
+                    "problem_id": "I",
+                    "problem_name": "Tetris Generation",
+                    "status": null,
+                    "submission": 0,
+                    "time": null,
+                    "penalty": null
+                },
+                {
+                    "problem_id": "J",
+                    "problem_name": "Tournament Seeding",
+                    "status": null,
+                    "submission": 0,
+                    "time": null,
+                    "penalty": null
+                },
+                {
+                    "problem_id": "K",
+                    "problem_name": "Tree Hopping",
+                    "status": null,
+                    "submission": 0,
+                    "time": null,
+                    "penalty": null
+                },
+                {
+                    "problem_id": "L",
+                    "problem_name": "Who Goes There?",
+                    "status": null,
+                    "submission": 0,
+                    "time": null,
+                    "penalty": null
+                }
+            ]
+        },
+        {
+            "contestant_id": "34",
+            "contestant_name": "UWF Team #3",
+            "solve": 0,
+            "penalty": 0,
+            "judge": [
+                {
+                    "problem_id": "A",
+                    "problem_name": "Average Character",
+                    "status": null,
+                    "submission": 0,
+                    "time": null,
+                    "penalty": null
+                },
+                {
+                    "problem_id": "B",
+                    "problem_name": "Black and White",
+                    "status": null,
+                    "submission": 0,
+                    "time": null,
+                    "penalty": null
+                },
+                {
+                    "problem_id": "C",
+                    "problem_name": "Diagonals",
+                    "status": null,
+                    "submission": 0,
+                    "time": null,
+                    "penalty": null
+                },
+                {
+                    "problem_id": "D",
+                    "problem_name": "Dorm Room Divide",
+                    "status": null,
+                    "submission": 0,
+                    "time": null,
+                    "penalty": null
+                },
+                {
+                    "problem_id": "E",
+                    "problem_name": "Double Password",
+                    "status": null,
+                    "submission": 0,
+                    "time": null,
+                    "penalty": null
+                },
+                {
+                    "problem_id": "F",
+                    "problem_name": "Overdraft",
+                    "status": null,
+                    "submission": 0,
+                    "time": null,
+                    "penalty": null
+                },
+                {
+                    "problem_id": "G",
+                    "problem_name": "Rise and Fall",
+                    "status": null,
+                    "submission": 0,
+                    "time": null,
+                    "penalty": null
+                },
+                {
+                    "problem_id": "H",
+                    "problem_name": "Square Bounce",
+                    "status": null,
+                    "submission": 0,
+                    "time": null,
+                    "penalty": null
+                },
+                {
+                    "problem_id": "I",
+                    "problem_name": "Tetris Generation",
+                    "status": null,
+                    "submission": 0,
+                    "time": null,
+                    "penalty": null
+                },
+                {
+                    "problem_id": "J",
+                    "problem_name": "Tournament Seeding",
+                    "status": null,
+                    "submission": 0,
+                    "time": null,
+                    "penalty": null
+                },
+                {
+                    "problem_id": "K",
+                    "problem_name": "Tree Hopping",
+                    "status": null,
+                    "submission": 0,
+                    "time": null,
+                    "penalty": null
+                },
+                {
+                    "problem_id": "L",
+                    "problem_name": "Who Goes There?",
+                    "status": null,
+                    "submission": 0,
+                    "time": null,
+                    "penalty": null
+                }
+            ]
+        }
+    ]
+}
