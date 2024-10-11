@@ -8,5 +8,10 @@
         "contest_id": "ser2022-div2",
         "contest_name": "2022 Southeast USA Regional Programming Contest Division 2",
         "location": "ser2022-div2.json"
+    },
+    {
+        "contest_id": "ser2023-div2",
+        "contest_name": "2023 Southeast USA Regional Programming Contest Division 2",
+        "location": "ser2023-div2.json"
     }
 ]
