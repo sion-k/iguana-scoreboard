@@ -13,5 +13,10 @@
         "contest_id": "ser2023-div2",
         "contest_name": "2023 Southeast USA Regional Programming Contest Division 2",
         "location": "ser2023-div2.json"
+    },
+    {
+        "contest_id": "nwerc2023",
+        "contest_name": "Northwestern Europe Regional Contest 2023",
+        "location": "nwerc2023.json"
     }
 ]
